@@ -1,0 +1,27 @@
+DENI	OB	Temp-Air
+DENI	TP	Temp-DewPoint
+DENI	WD	Dir Wind
+DENI	WS	Speed-Wind
+DENI	TU	%-Relative-Humidity
+DENI	PC	Precip-Cum
+DENI	SQ	Solar Radiation (Langleys Cumlative)
+DENI	BP	Barometric Pressure
+DENI	UI	Wind Travel
+LBRW	OB	Temp-Air
+LBRW	TP	Temp-DewPoint
+LBRW	WD	Dir Wind
+LBRW	WS	Speed-Wind
+LBRW	TU	%-Relative-Humidity
+LBRW	PC	Precip-Cum
+LBRW	SQ	Solar Radiation (Langleys Cumlative)
+LBRW	BP	Barometric Pressure
+LBRW	UI	Wind Travel
+SBMW	OB	Temp-Air
+SBMW	TP	Temp-DewPoint
+SBMW	WD	Dir Wind
+SBMW	WS	Speed-Wind
+SBMW	TU	%-Relative-Humidity
+SBMW	PC	Precip-Cum
+SBMW	SQ	Solar Radiation (Langleys Cumlative)
+SBMW	BP	Barometric Pressure
+SBMW	UI	Wind Travel

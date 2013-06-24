@@ -1,0 +1,54 @@
+USBR_PE	SHEF_PE	SHEF_DTSEP	CWMS_PARAM	CWMS_DURATION	UNITS	DESCRIPTION
+AF	LS	DRZZZ	Stor	Ave	ac-ft	Reservoir Storage - Acre-Feet
+AU	TA	DRZZZ	Temp-Air	Ave	F	AIR TEMPERATURE - SHIELDED GROUND SURFACE - DEGREES F
+BH	PA	DRZZZ	Pres-Air	Ave	mm-hg	BAROMETRIC PRESSURE (MM OF HG)
+BP	PA	DRZZZ	Pres-Air	Ave	in-hg	BAROMETRIC PRESSURE (In. Hg Sea Level)
+CH2	HG	DR3ZZ	Stage-Canal	Ave	ft	MINIDOKA SOUTHSIDE CANAL STAGE, FEET
+CO	TA	DR2ZZ	Temp-Air	Ave	C	AIR TEMP. (DEG C),Ave OBSERVATION
+DO	WO	DRZZZ	Conc-DO	Ave	mg/l	Dissolved Oxygen - mg/l
+EH	ED	DRZZZ	Evap-Pan	Ave	in	EVAP. PAN W.S. ELEV AveANTANEOUS (INCHES)
+FB	HF	DRZZZ	Elev-Forebay	Ave	ft	Forebay Elevation - Feet
+FB2	HF	DR2ZZ	Elev-Forebay	Ave	ft	ELEVATION, FOREBAY AveANTANEOUS (FEET)
+GD	HG	DRZZZ	Stage	Ave	ft	Guage (feet)
+GJ	HG	DR2ZZ	Stage-Canal	Ave	ft	Guage (feet)
+HK	HG	DR4ZZ	Stage-Canal	Ave	ft	Stage, Howard Prairie Canal at Spill - feet
+ID	QI	DRZZZ	Flow-In	Ave	cfs	Inflow
+NT	WG	DRZZZ	Pres-Water-TotalGas	Ave	mm-hg	WATER TOTAL DISSOLVED GAS (MILLILITERS OF MERCURY)
+OB	TA	DR3ZZ	Temp-Air	Ave	F	Air Temperature - Deg. F
+PC	PC	DRZZZ	Precip-Cum	Ave	in	PRECIP, CUMULATIVE (INCHES OF WATER) (12" Belfort)
+PP	PP	DRZZZ	Precip-Inc	Total	in	Precipitation, Daily Total (Inches)
+QC	QD	DRZZZ	Flow-Canal	Ave	cfs	Canal Discharge - CFS
+QD	QR	DRZZZ	Flow	Ave	cfs	Discharge - CFS
+QE	QG	DRZZZ	Flow-Discharge-Power	Ave	cfs	DISCHARGE, POWERHOUSE AveANTANEOUS (CFS)
+QG	QG	DR2ZZ	Flow-Discharge-Power	Ave	cfs	Mean Daily Powerplant Discharge (QV), CFS
+QJ	QD	DR2ZZ	Flow-Canal	Ave	cfs	Canal Discharge - CFS
+QP	QP	DRZZZ	Flow-Pumped	Ave	cfs	DISCHARGE, PUMPED (CFS)
+QR	QU	DRZZZ	Flow-Discharge-Gate	Ave	cfs	Discharge, Regulating Gate - cfs
+QS	QS	DRZZZ	Flow-Spill	Ave	cfs	Spillway Discharge - cfs
+QT	QT	DRZZZ	Flow-Out	Ave	cfs	Total Flow of Powerplant plus Slide Gates (Accusonic)
+QU	QI	DR2ZZ	Flow-Unreg	Ave	cfs	Unregulated Flow
+QZ	QZ	DRZZZ	Flow-Fishscreen	Ave	cfs	Discharge, Fish Screen Bypass - CFS
+RA	HJ	DRZZZ	Opening-Gate	Ave	ft	SPILLWAY GATE NO. 1 OPENING (FEET)
+SL	TS	DRZZZ	Temp-Soil-1inch	Ave	F	SOIL TEMPERATURE - 1 INCH DEPTH - DEGREES F
+SP	SW	DRZZZ	Depth-SWE	Ave	in	SNOW WATER-EQUIV FROM SNOW
+ST20	TS	DR2ZZ	Temp-Soil-20in	Ave	C	Soil Temperature at 20" Depth (Degrees C)
+ST4	TS	DR3ZZ	Temp-Soil-4in	Ave	C	Soil Temperature at 4" Depth (Degrees C)
+ST8	TS	DR4ZZ	Temp-Soil-8in	Ave	C	Soil Temperature at 8" Depth (Degrees C)
+SV	TS	DR4ZZ	Temp-Soil-8in	Ave	F	SOIL TEMP, 8 INCH (DEG F), 
+SV2	TS	DR5ZZ	Temp-Soil-8in	Ave	F	SOIL TEMP AT 8 INCHES (DEG F) HRMO ONLY
+SW	TS	DR3ZZ	Temp-Soil-4in	Ave	F	SOIL TEMP, 4 INCH (DEG F) 
+TP	TD	DRZZZ	Temp-DewPoint	Ave	F	AIR TEMP, DEW POINT (DEG F)
+TU	XR	DRZZZ	%-Relative-Humidity	Ave	%	RELATIVE HUMIDITY (PERCENT)
+TW	HT	DRZZZ	Elev-Tailwater	Ave	ft	ELEVATION, TAILWATER AveANTANEOUS (FEET)
+VE	VE	DRZZZ	Energy	Total	MWh	Total Daily Generation (VA) MWH
+VV	VG	DRZZZ	Power	Ave	MW	Generation - Aveantaneous MW
+WC	TW	DR3ZZ	Temp-Water	Ave	C	WATER TEMPERATURE AGENCY LAKE (DEG C)
+WD	UD	DRZZZ	Dir-Wind	Ave	deg	WIND DIRECTION (DEGREES AZIMUTH)
+WDS	UE	DRZZZ	Dir-Wind-StdDev	Ave	deg	Wind Direction Standard Deviation (Degrees)
+WF	TW	DRZZZ	Temp-Water	Ave	F	Water Temperature - Degrees F
+WF2	TW	DR2ZZ	Temp-Water	Ave	F	Water Temperature - Degrees F (redundant sensor)
+WJ	WT	DRZZZ	TurbN-Water	Ave	ntu	Water turbidity
+WS	US	DRZZZ	Speed-Wind	Ave	mph	WIND SPEED (MILES PER HOUR)
+XPC	PC	DR2ZZ	Precip-Cum	Ave	ft	Precipitation - Raw Units (Feet)
+YR	WG	DR2ZZ	%-Saturation-Gas	Ave	%	Percent Gas Saturation
+ZA	TS	DR6ZZ	Temp-Soil-2in	Ave	F	SOIL TEMP, 2 INCH (DEG F)

@@ -1,0 +1,36 @@
+USBR_PE	SHEF_PE	SHEF_DTSEP	CWMS_PARAM	CWMS_DURATION	UNITS	DESCRIPTION
+AF	LS	IRZZZ	Stor	Inst	ac-ft	Reservoir Storage
+BP	PA	IRZZZ	Pres-Air	Ave	in-hg	BAROMETRIC PRESSURE (In. Hg Sea Level)
+CH	HG	IRZZZ	Stage	Inst	ft	Canal Gage Height
+FB	HF	IRZZZ	Elev-Forebay	Inst	ft	Forebay Elevation
+GH	HG	IRZZZ	Stage	Inst	ft	Gage Height
+OB	TA	IRZZZ	Temp-Air	Inst	F	Air Temperature
+PC	PC	IRZZZ	Precip-Cum	Inst	in	Precipitation, cumulative
+Q	QR	IRZZZ	Flow	Inst	cfs	Discharge
+Q	QR	IRZZZ	Flow	Inst	cfs	Total Discharge
+QC	QD	IRZZZ	Flow-Canal	Inst	cfs	Canal Discharge
+QC	QD	IRZZZ	Flow-Canal	Inst	cfs	Diversion Discharge
+QC2	QD	IRZZZ	Flow-Canal	Inst	cfs	Diversion Discharge
+QE	QG	IRZZZ	Flow-Discharge-Power	Inst	cfs	Powerplant Discharge, Unit 1
+QZ	QG	IRZZZ	Flow-Discharge-Power	Inst	cfs	Powerplant Discharge, Unit 2
+QT	QG	IRZZZ	Flow-Discharge-Power	Inst	cfs	Powerplant Discharge, Total
+QR	QU	IRZZZ	Flow-Outlet-Regulated	Inst	cfs	Discharge
+RB	HJ	IRZZZ	Opening-Gate	Inst	ft	Spill gate position
+SP	SW	IRZZZ	Depth-SWE	Inst	in	Snow Water Equivalent
+VV	VT	IRZZZ	Power	Inst	MW	Generation
+WD	UD	IRZZZ	Dir-Wind	Inst	deg	Wind Direction
+WF	TW	IRZZZ	Temp-Water	Inst	F	Water Temperature
+WS	US	IRZZZ	Speed-Wind	Inst	mph	Wind Speed
+TP	TD	IRZZZ	Temp-DewPoint	Ave	F	AIR TEMP, DEW POINT (DEG F)
+TU	XR	IRZZZ	%-Relative-Humidity	Ave	%	RELATIVE HUMIDITY (PERCENT)
+PP	PP	IRZZZ	Precip-Inc	Inst	in	PRECIP, CUMULATIVE (in)
+SQ	RI	IRZZZ	Rad-Cum	Inst	langley	SOLAR RADIATION (LANGLEY'S  CUMULATIVE)
+SQ2	RI	IRZZZ	Rad-Cum	Inst	langley	DIFFUSE SOLAR RADIATION (LANGLEY'S  CUMULATIVE)
+UI	UC	IRZZZ	Travel-Wind-Cum	Inst	mi	WIND TRAVEL, CUMULATIVE WIND RUN IN MILES 
+SL	YL	IRZZZ	Temp-Soil-1in	Inst	F	Temperature Soil at 1"
+SW	TS	IRZZZ	Temp-Soil-4in	Inst	F	Temperature Soil at 4"
+SV	TV	IRZZZ	Temp-Soil-8in	Inst	F	Temperature Soil at 8"
+EH	ED	IRZZZ	Evap-Pan	Ave	in	EVAP. PAN W.S. ELEV AveANTANEOUS (INCHES)
+IN	QI	IRZZZ	Flow-In	Inst	cfs	Inflow
+RA	YA	IRZZZ	Opening-Gate	Inst	ft	Spillway Gate 1 Opening
+RB	YB	IRZZZ	Opening-Gate	Inst	ft	Spillway Gate 2 Opening

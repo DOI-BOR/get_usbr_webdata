@@ -1,0 +1,299 @@
+#!/usr/bin/env python
+import re,urllib,datetime
+from datetime import timedelta
+import time, sys, os
+
+helpStr = '''
+get_usbr_webdata v1.0
+04 November 2011
+POC: Gunnar Leffler
+
+This program get data from the USBR's web service and converts it to SHEF for
+transfer/ingestion into another database. It uses alias files to convert the
+physical element codes the USBR uses to PE codes found in the SHEF manual.
+
+DEPENDENCIES:
+ This program expects the following alias files to be in the current working directory (PWD):
+  daily.alias
+  realtime.alias
+
+USAGE:
+ get_usbr_webdata <daily|realtime> <lookback window in days> <stationlist>
+
+EXAMPLE:
+ get_usbr_webdata daily 1 stations.list
+
+'''
+
+dailyURL = "http://www.usbr.gov/pn-bin/webarccsv.pl?parameter=$LOC_ID%20$PE_CODE&syer=$START_YEAR&smnth=$START_MONTH&sdy=$START_DAY&eyer=$END_YEAR&emnth=$END_MONTH&edy=$END_DAY&format=1"
+
+realtimeURL="http://www.usbr.gov/pn-bin/webdaycsv.pl?parameter=$LOC_ID%20$PE_CODE&syer=$START_YEAR&smnth=$START_MONTH&sdy=$START_DAY&eyer=$END_YEAR&emnth=$END_MONTH&edy=$END_DAY&format=1"
+#http://www.usbr.gov/pn-bin/webdaycsv.pl?parameter=HFAI%20GH&syer=2011&smnth=12&sdy=07&eyer=2011&emnth=12&edy=07&format=1
+
+# not currently used
+realtimeMultiURL="http://www.usbr.gov/pn-bin/webdaycsv.pl?parameter=$LOC_ID%20$PE_CODE,%20$LOC_ID2%20$PE_CODE&syer=$START_YEAR&smnth=$START_MONTH&sdy=$START_DAY&eyer=$END_YEAR&emnth=$END_MONTH&edy=$END_DAY&format=1"
+
+# future [possible] use: dfCGI = "actual" realtime data, limited properties and datasets [12/07/2011]
+#dfCGIrealtimeURL = "http://www.usbr.gov/pn-bin/dfcgi.pl?site=$LOC_ID&pcode=$PE_CODE&incr=15&back=$LOOKBACK&form=$FORMAT&last="
+
+def div1000(s):
+  output = ""
+  try:
+    output = str(float(s)/1000)
+  except:
+    pass
+  return output
+  
+def remove_html_tags(txt):
+   p = re.compile(r'<[^<]*?/>')
+   return p.sub('', txt)
+
+#==============================================
+#Error Logging Code
+#==============================================
+errorStack = []
+
+def help ():
+  print helpStr
+
+def logError (content):
+  errorStack.append(content)
+
+def complain ():
+  if errorStack :
+    for errorLine in errorStack :
+      sys.stderr.write("*** ERROR : %s\n" % errorLine)		
+  sys.exit(-1)
+#==============================================
+#End Error Logging Code
+#==============================================
+
+#==============================================
+# file handling
+#==============================================
+def readAliasFile (path): #reads an alias file and returns a dictionary
+  csv = readTSV (path)
+  alias = []
+  for line in csv:
+    alias.append ((line.pop(0),line))
+  return dict(alias)
+
+  
+def readTSV (path):
+  #theFile = open(path, "r")
+  lines = (line.rstrip('\n') for line in open(path, "r"))
+
+  #lines = theFile.readlines()
+  output = []
+  for s in lines:
+    if len(s) > 1 and s[0] != '#': # ignore blank lines
+      row1 = s.split('\t') #split the line by ','
+      output.append (row1)
+  return output
+
+def makeSHEF (locID,timeObj,tz,PEcode,value):
+  output = ".A "+locID+" "+timeObj.strftime("%Y%m%d")+" "+tz+" DH"+timeObj.strftime("%H%M")+"/"+PEcode+" "+value
+  return output
+
+def makeDailySHEF (locID,timeObj,tz,PEcode,value):
+  output = ".A "+locID+" "+timeObj.strftime("%Y%m%d")+" "+tz+" DH24/"+PEcode+" "+value
+  #print output   # debug
+  return output
+  
+  # time component? Art ? what about the cwms-post method() for this ? s/b like the reg makeSHEF above ?
+def makeRealtimeSHEF (locID,timeObj,tz,PEcode,value):
+  output = ".A "+locID+" "+ timeObj.strftime("%Y%m%d")+" "+ tz +" DH" + timeObj.strftime("%H%M")+"/DUE /"+PEcode+" "+value
+  #print output   # debug
+  return output
+
+#==============================================
+# end file handling
+#==============================================
+
+
+#==============================================
+# parsing and processing
+#==============================================
+#This removes cruft from scraped input
+def stripGarbage(input):
+  output = ""
+  if input[0] == "-":
+    output = "-"
+  for c in input:
+    if c.isdigit() or c == ".":
+      output += c
+  return output
+
+#This removes cruft and returns a list of datetime objects & values
+def processDailyInput(buffer): 
+  lines = buffer.split('\n')
+  flag = 0
+  output = []
+  errline = ""
+  for s in lines:
+    s = s.strip()
+    #print s   # debug
+    if "END DATA" in s:
+      flag = 0
+    if len(s) > 1 and flag > 1: #if the line isn't blank and not a header or footer
+      try:
+        tokens = s.split('\t')
+        
+        #t3 = tokens[1]   # debug
+       # print t3   # debug
+        
+        tokens[1] = tokens[1].strip()
+        if tokens[1] != "NO RECORD":
+          output.append([datetime.datetime.strptime(tokens[0],"%m/%d/%Y"),tokens[1]])
+        else :
+          print >> sys.stderr, errline+"\t"+s
+          # example : "DATE                HFAI GH     12/07/2011      NO RECORD"
+      except:
+        pass
+    if "BEGIN DATA" in s:
+      flag = 1
+    if "DATE" in s and flag == 1:
+      errline = s
+      flag += 1
+  return output
+
+
+#---------------------------------------------  
+#bbaley 12-07-2011 RT/15min from arcDaily
+#---------------------------------------------  
+def processRealTimeInput(buffer): 
+  lines = buffer.split('\n')
+  flag = 0
+  output = []
+  errline = ""
+  for s in lines:
+    s = s.strip()
+    if "END DATA" in s:
+      flag = 0
+    if len(s) > 1 and flag > 1: #if the line isn't blank and not a header or footer
+      try:
+        tokens = s.split('\t')
+        
+        tokens[1] = tokens[1].strip()
+        if tokens[1] != "NO RECORD":
+          # output.append([datetime.datetime.strptime(tokens[0],"%m/%d/%Y %H:%M"),tokens[1]])
+          # keep time portion
+          output.append([datetime.datetime.strptime(tokens[0],"%m/%d/%Y %H:%M"),tokens[1]])
+        else :
+          print >> sys.stderr, errline+"\t"+s
+          # example : "DATE                HFAI GH     12/07/2011      NO RECORD"
+      except:
+        # print "exception"    # debug
+        pass
+    if "BEGIN DATA" in s:
+      flag = 1
+    if "DATE" in s or "DATE       TIME" in s and flag == 1:
+      errline = s
+      flag += 1
+  return output
+#==============================================
+# end parsing and processing
+#==============================================
+    
+def getDailyInput (location,pecode,lookback):
+   myURL = dailyURL
+   # example: http://www.usbr.gov/pn-bin/webarccsv.pl?parameter=ANTI%20QD&syer=2011&smnth=12&sdy=01&eyer=2011&emnth=12&edy=06&format=1
+   # where, in stations.list = ANTI, QD
+
+   et = datetime.datetime.now()
+   st =  et - timedelta(days=int(lookback))
+   myURL = myURL.replace("$LOC_ID",location)
+   myURL = myURL.replace("$PE_CODE",pecode)
+   myURL = myURL.replace("$START_YEAR",st.strftime("%Y"))
+   myURL = myURL.replace("$END_YEAR",et.strftime("%Y"))
+   myURL = myURL.replace("$START_MONTH",st.strftime("%m"))
+   myURL = myURL.replace("$END_MONTH",et.strftime("%m"))
+   myURL = myURL.replace("$START_DAY",st.strftime("%d"))
+   myURL = myURL.replace("$END_DAY",et.strftime("%d"))
+   
+   #print myURL   # debug
+   f = urllib.urlopen(myURL)
+   return processDailyInput(f.read())
+
+
+def getDaily (lookback,stalistPath):
+  alias = readAliasFile("daily.alias")
+  stalist = readTSV(stalistPath)
+  for line in stalist:
+    if line[1] in alias:
+      t = alias[line[1]] #temporary variable with alias info
+
+      input = getDailyInput (line[0],line[1],lookback)
+      
+      for n in input:
+        n[1] = stripGarbage(n[1])
+        if t[0] == "LS": #BUG FIX: SHEFIT -2 can't handle large numbers so we convert all LS to kaf
+          n[1] = div1000(n[1])
+        print makeDailySHEF(line[0],n[0],"M",t[0]+t[1],n[1])
+
+
+#====================================================
+# bbaley 12-06-2011
+#====================================================  
+def getRealtimeInput (location, pecode, lookback):
+   myURL = realtimeURL
+   # example multi: "http://www.usbr.gov/pn-bin/webdaycsv.pl?parameter=ANTI%20QD,%20ANTI%20GH&syer=2011&smnth=12&sdy=06&eyer=2011&emnth=12&edy=06&format=1"
+   # example single: "http://www.usbr.gov/pn-bin/webdaycsv.pl?parameter=ANTI%20GH&syer=2011&smnth=12&sdy=06&eyer=2011&emnth=12&edy=06&format=1"
+   #http://www.usbr.gov/pn-bin/webdaycsv.pl?parameter=HFAI%20GH&syer=2011&smnth=12&sdy=07&eyer=2011&emnth=12&edy=07&format=1
+   # where, in stations.list = ANTI, QD
+   et = datetime.datetime.now()
+   st =  et - timedelta(days=int(lookback))
+   myURL = myURL.replace("$LOC_ID",location)
+   myURL = myURL.replace("$PE_CODE",pecode)
+   myURL = myURL.replace("$START_YEAR",st.strftime("%Y"))
+   myURL = myURL.replace("$END_YEAR",et.strftime("%Y"))
+   myURL = myURL.replace("$START_MONTH",st.strftime("%m"))
+   myURL = myURL.replace("$END_MONTH",et.strftime("%m"))
+   myURL = myURL.replace("$START_DAY",st.strftime("%d"))
+   myURL = myURL.replace("$END_DAY",et.strftime("%d"))
+   
+   #print myURL   # debug
+   f = urllib.urlopen(myURL)
+   return processRealTimeInput(f.read())
+
+#====================================================
+def getRealtime (lookback, stalistPath):
+  alias = readAliasFile("realtime.alias")
+  stalist = readTSV(stalistPath)
+  for line in stalist:
+    if line[1] in alias:
+      t = alias[line[1]] #temporary variable with alias info
+      
+      input = getRealtimeInput (line[0],line[1],lookback)
+      
+      for n in input:
+        n[1] = stripGarbage(n[1])
+        if t[0] == "LS": #BUG FIX: SHEFIT -2 can't handle large numbers so we convert all LS to kaf
+          n[1] = div1000(n[1])
+        print makeRealtimeSHEF(line[0],n[0],"P",t[0]+t[1],n[1])
+        
+  
+# bbaley 12-06-2011
+#====================================================
+
+
+
+#=============================================
+#This is the entrypoint for the script
+#=============================================
+
+if len (sys.argv) > 1:
+   if sys.argv[1] == "daily" and len(sys.argv) > 3:
+      getDaily(sys.argv[2],sys.argv[3])
+   elif sys.argv[1] == "realtime":
+      #result = getRealtime(sys.argv[2],sys.argv[3],sys.argv[4])
+      getRealtime(sys.argv[2],sys.argv[3])
+   elif sys.argv[1] == "json":
+      getJSON(sys.argv[2],sys.argv[3])
+   elif sys.argv[1] == "params":
+      getParameters(sys.argv[2],sys.argv[3],sys.argv[4])
+   else:
+      help()
+else:
+   help()
+complain()
