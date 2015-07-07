@@ -18,7 +18,7 @@ DEPENDENCIES:
   realtime.alias
 
 USAGE:
- get_usbr_webdata <daily|realtime> <lookback window in days> <stationlist>
+ get_usbr_webdata <daily|realtime> <lookback window in days|lookback window in hours> <stationlist>
 
 EXAMPLE:
  get_usbr_webdata daily 1 stations.list
@@ -27,7 +27,7 @@ EXAMPLE:
 
 dailyURL = "http://www.usbr.gov/pn-bin/webarccsv.pl?parameter=$LOC_ID%20$PE_CODE&syer=$START_YEAR&smnth=$START_MONTH&sdy=$START_DAY&eyer=$END_YEAR&emnth=$END_MONTH&edy=$END_DAY&format=1"
 
-realtimeURL="http://www.usbr.gov/pn-bin/webdaycsv.pl?parameter=$LOC_ID%20$PE_CODE&syer=$START_YEAR&smnth=$START_MONTH&sdy=$START_DAY&eyer=$END_YEAR&emnth=$END_MONTH&edy=$END_DAY&format=1"
+realtimeURL="http://www.usbr.gov/pn-bin/webdaycsv.pl?parameter=$LOC_ID%20$PE_CODE&back=$HOURS&format=1"
 #http://www.usbr.gov/pn-bin/webdaycsv.pl?parameter=HFAI%20GH&syer=2011&smnth=12&sdy=07&eyer=2011&emnth=12&edy=07&format=1
 
 # not currently used
@@ -241,16 +241,9 @@ def getRealtimeInput (location, pecode, lookback):
    # example single: "http://www.usbr.gov/pn-bin/webdaycsv.pl?parameter=ANTI%20GH&syer=2011&smnth=12&sdy=06&eyer=2011&emnth=12&edy=06&format=1"
    #http://www.usbr.gov/pn-bin/webdaycsv.pl?parameter=HFAI%20GH&syer=2011&smnth=12&sdy=07&eyer=2011&emnth=12&edy=07&format=1
    # where, in stations.list = ANTI, QD
-   et = datetime.datetime.now()
-   st =  et - timedelta(days=int(lookback))
    myURL = myURL.replace("$LOC_ID",location)
    myURL = myURL.replace("$PE_CODE",pecode)
-   myURL = myURL.replace("$START_YEAR",st.strftime("%Y"))
-   myURL = myURL.replace("$END_YEAR",et.strftime("%Y"))
-   myURL = myURL.replace("$START_MONTH",st.strftime("%m"))
-   myURL = myURL.replace("$END_MONTH",et.strftime("%m"))
-   myURL = myURL.replace("$START_DAY",st.strftime("%d"))
-   myURL = myURL.replace("$END_DAY",et.strftime("%d"))
+   myURL = myURL.replace("$HOURS",lookback)
    
    #print myURL   # debug
    f = urllib.urlopen(myURL)
