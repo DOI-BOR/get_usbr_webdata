@@ -20,7 +20,7 @@ DEPENDENCIES:
   realtime.alias
 
 USAGE:
- get_usbr_webdata <daily|realtime> <lookback window in days> <stationlist>
+ get_usbr_webdata <daily|realtime> <lookback window in days|loopback window in hours> <stationlist>
 
 EXAMPLE:
  get_usbr_webdata daily 1 stations.list
