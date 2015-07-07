@@ -1,6 +1,8 @@
 #!/usr/bin/env python
+import os
 import subprocess
 print "Content-type: text/html\n\n"
 
-subprocess.call(['python',"get_usbr_webdata.py","realtime","3,"stations.realtime.list"])
+os.chdir("..")
+subprocess.call(["python","get_usbr_webdata.py","realtime",3,"stations.realtime.list"])
 
