@@ -1,462 +1,462 @@
-UBBO	GH	Gauge Height - Feet	Umatilla River below Butter Creek
-UBBO	Q	Discharge - CFS	Umatilla River below Butter Creek
-ALPY	GH	Gauge Height - Feet	Snake River above Reservoir near Alpine, WY
-ALPY	Q	Discharge - CFS	Snake River above Reservoir near Alpine, WY
-ALTY	OB	Air Temperature - Deg. F	Alta Wyoming Weather Station
-ALTY	PC	PRECIP, CUMULATIVE (INCHES OF WATER) (30" BELFORT)	Alta Wyoming Weather Station
-AMF	AF	Reservoir Storage - Acre-Feet	American Falls Reservoir at American Falls, ID
-AMF	FB	Forebay Elevation - Feet	American Falls Reservoir at American Falls, ID
-AMF	OB	Air Temperature - Deg. F	American Falls Reservoir at American Falls, ID
-AMF	PC	PRECIP, CUMULATIVE (INCHES OF WATER) (12" Belfort)	American Falls Reservoir at American Falls, ID
-AMF	Q	Discharge - CFS	American Falls Reservoir at American Falls, ID
-AMFI	GH	Gauge Height - Feet	Snake River at Neeley, ID
-AMFI	OB	Air Temperature - Deg. F	Snake River at Neeley, ID
-AMFI	Q	Discharge - CFS	Snake River at Neeley, ID
-ANTI	GH	Gauge Height - Feet	Henrys Fork at St. Anthony, ID
-ANTI	Q	Discharge - CFS	Henrys Fork at St. Anthony, ID
-BFKY	GH	Gauge Height - Feet	Buffalo Fork above Lava Creek near Moran, WY
-BFKY	Q	Discharge - CFS	Buffalo Fork above Lava Creek near Moran, WY
-BFTI	GH	Gauge Height - Feet	Snake River near Blackfoot, ID
-BFTI	Q	Discharge - CFS	Snake River near Blackfoot, ID
-BNWI	OB	Air Temperature - Deg . F	Bone, ID
-BNWI	PC	PRECIP, CUMULATIVE (INCHES OF WATER) (30" BELFORT)	Bone, ID
-BONY	OB	Air Temperature - Deg. F	Bondurant 3NW
-BONY	PC	PRECIP, CUMULATIVE (INCHES OF WATER)(Validyne P55D) 55"H2O	Bondurant 3NW
-BOUY	OB	Air Temperature - Deg. F	Bondurant 4NW (NWS)
-BOUY	PC	Precipitation, Cumulative - Inches (20"FP NWS)	Bondurant 4NW (NWS)
-CHEI	GH	Gauge Height - Feet	Falls River near Chester, ID
-CHEI	Q	Discharge - CFS	Falls River near Chester, ID
-DRYI	GH	Gauge Height - Feet	Dry Bed near Ririe, ID
-DRYI	Q	Discharge - CFS	Dry Bed near Ririe, ID
-ELCI	CH	Canal Gauge Height (feet)	Eagle Rock Canal near Hwy 26
-ELCI	QC	Canal Discharge - CFS	Eagle Rock Canal near Hwy 26
-FALI	GH	Gauge Height - Feet	Falls River near Squirrel, ID
-FALI	Q	Discharge - CFS	Falls River near Squirrel, ID
-FLGY	GH	Gauge Height - Feet	Snake River near Flagg Ranch, WY
-FLGY	Q	Discharge - CFS	Snake River near Flagg Ranch, WY
-GCKY	OB	Air Temperature - Deg. F	Glade Creek
-GCKY	PC	PRECIP, CUMULATIVE (INCHES OF WATER) (30"Belfort)	Glade Creek
-GREY	GH	Gauge Height - Feet	Greys River above Reservoir near Alpine, WY
-GREY	Q	Discharge - CFS	Greys River above Reservoir near Alpine, WY
-GRS	AF	Reservoir Storage - Acre-Feet	Grassy Lake near Moran, WY
-GRS	FB	Forebay Elevation - Feet	Grassy Lake near Moran, WY
-GRS	GH	Gauge Height - Feet  (outlet channel)	Grassy Lake near Moran, WY
-HEII	GH	Gauge Height - Feet	Snake River near Heise, ID
-HEII	Q	Discharge - CFS	Snake River near Heise, ID
-HEN	AF	Reservoir Storage - Acre-Feet	Henrys Lake Dam on Henrys Fork nr. Lake, ID
-HEN	FB	Forebay Elevation - Feet	Henrys Lake Dam on Henrys Fork nr. Lake, ID
-HENI	GH	Gauge Height - Feet	Henrys Fork near Lake, ID
-HENI	Q	Discharge - CFS	Henrys Fork near Lake, ID
-HFAI	GH	Gauge Height - Feet	Henrys Fork near Ashton, ID
-HFAI	Q	Discharge - CFS	Henrys Fork near Ashton, ID
-HKBY	OB	Air Temperature - Deg. F	Huckleberry Divide, WY
-HKBY	PC	PRECIP, CUMULATIVE (INCHES OF WATER) (30"Belfort)	Huckleberry Divide, WY
-IDFI	OB	Air Temperature - Deg. F	Idaho Falls 16SE
-IDFI	PC	PRECIP, CUMULATIVE (INCHES OF WATER)(30" belfort,8/94)	Idaho Falls 16SE
-ISL	AF	Reservoir Storage - Acre-Feet	Island Park Dam and Reservoir, ID
-ISL	FB	Forebay Elevation - Feet	Island Park Dam and Reservoir, ID
-ISL	OB	Air Temperature - Deg. F	Island Park Dam and Reservoir, ID
-ISL	Q	Discharge - CFS	Island Park Dam and Reservoir, ID
-ISLI	GH	Gauge Height - Feet	Henrys Fork near Island Park, ID
-ISLI	Q	Discharge - CFS	Henrys Fork near Island Park, ID
-JCK	AF	Reservoir Storage - Acre-Feet	Jackson Lake at Dam on Snake River near Moran, WY
-JCK	FB	Forebay Elevation - Feet	Jackson Lake at Dam on Snake River near Moran, WY
-JCK	GH	Gauge Height - Feet	Jackson Lake at Dam on Snake River near Moran, WY
-JCK	OB	Air Temperature - Deg. F	Jackson Lake at Dam on Snake River near Moran, WY
-JCK	PC	Precipitation, Cumulative - Inches (20"FP NWS)	Jackson Lake at Dam on Snake River near Moran, WY
-JCK	Q	Discharge - CFS	Jackson Lake at Dam on Snake River near Moran, WY
-JKNY	OB	Air Temperature - Deg. F	Jackson WY Weather Station
-JKNY	PC	Precipitation, Cumulative - Inches (20"FP NWS)	Jackson WY Weather Station
-JKSY	GH	Gauge Height - Feet	Snake River below Flat Creek near Jackson, WY
-JKSY	Q	Discharge - CFS	Snake River below Flat Creek near Jackson, WY
-LORI	GH	Gauge Height - Feet	Snake River at Lorenzo, ID
-LORI	Q	Discharge - CFS	Snake River at Lorenzo, ID
-MCHI	QC	Canal Discharge - CFS	MICHAUD CANAL AT AMERICAN FALLS (PUMPING PLANT)
-MGAI	CH	Canal Gauge Height (feet)	MILNER-GOODING A LATERAL CANAL
-MGAI	QC	Canal Discharge - CFS	MILNER-GOODING A LATERAL CANAL
-MHPI	Q	Total Discharge (QE + QZ) - cfs	Milner Power Plant (Idaho Power Co.)
-MHPI	QE	Powerplant Discharge, Unit 1 - cfs	Milner Power Plant (Idaho Power Co.)
-MHPI	QZ	Powerplant Discharge, Unit 2 - cfs	Milner Power Plant (Idaho Power Co.)
-MIL	AF	Reservoir Storage - Acre-Feet	Milner Dam and Reservoir, Idaho
-MIL	FB	Forebay Elevation - Feet	Milner Dam and Reservoir, Idaho
-MILI	GH	Gauge Height - Feet	Snake River at Milner, Idaho
-MILI	Q	Discharge - CFS	Snake River at Milner, Idaho
-MILI	QT	Total Combined Flow MILI Q + MHPI QE + MHPI QZ	Snake River at Milner, Idaho
-MIN	AF	Reservoir Storage - Acre-Feet	Minidoka Dam and Lake Walcott, ID
-MIN	CH	MINIDOKA NORTHSIDE CANAL STAGE, FEET	Minidoka Dam and Lake Walcott, ID
-MIN	FB	Forebay Elevation - Feet	Minidoka Dam and Lake Walcott, ID
-MIN	GH	Gauge Height - Feet	Minidoka Dam and Lake Walcott, ID
-MIN	OB	Air Temperature - Deg. F	Minidoka Dam and Lake Walcott, ID
-MIN	PC	PRECIP, CUMULATIVE (INCHES OF WATER) (12" Belfort)	Minidoka Dam and Lake Walcott, ID
-MINI	GH	Gauge Height - Feet	Snake River near Minidoka, ID
-MINI	Q	Discharge - CFS	Snake River near Minidoka, ID
-NMCI	CH	Canal Gauge Height - Feet	Minidoka Northside Canal
-NMCI	QC	Canal Discharge - CFS	Minidoka Northside Canal
-OAKI	AF	Reservoir Storage - Acre-Feet	OAKLEY RESERVOIR
-OAKI	FB	Forebay Elevation - Feet	OAKLEY RESERVOIR
-OAKI	Q	Discharge - CFS	OAKLEY RESERVOIR
-PAL	AF	Reservoir Storage - Acre-Feet	Palisades Reservoir near Irwin, ID
-PAL	FB	Forebay Elevation - Feet	Palisades Reservoir near Irwin, ID
-PAL	GH	Gauge Height - Feet	Palisades Reservoir near Irwin, ID
-PALI	GH	Gauge Height - Feet	Snake River near Irwin, ID
-PALI	OB	Air Temperature - Deg. F	Snake River near Irwin, ID
-PALI	PC	PRECIP, CUMULATIVE (INCHES OF WATER) (20"Belfort)	Snake River near Irwin, ID
-PALI	Q	Discharge - CFS	Snake River near Irwin, ID
-PCKY	GH	Gauge Height - Feet	Pacific Creek at Moran, WY
-PCKY	Q	Discharge - CFS	Pacific Creek at Moran, WY
-REXI	GH	Gauge Height - Feet	Henrys Fork near Rexburg, ID
-REXI	Q	Discharge - CFS	Henrys Fork near Rexburg, ID
-RIR	AF	Reservoir Storage - Acre-Feet	Ririe Dam and Lake near Ririe, ID
-RIR	FB	Forebay Elevation - Feet	Ririe Dam and Lake near Ririe, ID
-RIR	Q	Discharge - CFS	Ririe Dam and Lake near Ririe, ID
-RIWI	OB	Air Temperature - Deg. F	Ririe Dam Weather Station
-RIWI	PC	PRECIP, CUMULATIVE (INCHES OF WATER) (12"Belfort)	Ririe Dam Weather Station
-SALY	GH	Gauge Height - Feet	Salt River above Reservoir near Etna, WY
-SALY	OB	Air Temperature - Deg. F	Salt River above Reservoir near Etna, WY
-SALY	PC	Precipitation, Cumulative - (tipping bucket)	Salt River above Reservoir near Etna, WY
-SALY	Q	Discharge - CFS	Salt River above Reservoir near Etna, WY
-SHYI	GH	Gauge Height - Feet	Snake River near Shelley, ID
-SHYI	Q	Discharge - CFS	Snake River near Shelley, ID
-SKRY	OB	Air Temperature - Deg. F	Snake River Station, WY
-SKRY	PC	Precipitation - Inches	Snake River Station, WY
-SMCI	CH	Canal Gauge Height (feet)	Minidoka Southside Canal
-SMCI	QC	Canal Discharge - CFS	Minidoka Southside Canal
-SNAI	GH	Gauge Height - Feet	Snake River at Blackfoot, ID
-SNAI	Q	Discharge - CFS	Snake River at Blackfoot, ID
-SRKI	Q	Discharge - CFS	Snake River at Kimberly, ID
-SWII	QC	remaining flow in drain (-) or flow from river (+)	South West Irr Dist Diversion Burley Main Drain, ID
-TEAI	GH	Gauge Height - Feet	Teton River near St. Anthony, ID
-TEAI	Q	Discharge - CFS	Teton River near St. Anthony, ID
-VLVI	OB	Air Temperature - Deg. F	Valley View
-VLVI	PC	Precipitation, Cumulative, Inches of Water (30in Belfort)	Valley View
-WBFI	CH	Canal Gauge Height (feet)	Willow Creek Below Floodway Channel nr. Ucon, ID
-WBFI	QC	Canal Discharge - CFS	Willow Creek Below Floodway Channel nr. Ucon, ID
-WIFI	GH	Gauge Height - Feet	Sand Creek above Willow Creek Diversion nr Ukon, ID
-WIFI	Q	Discharge - CFS	Sand Creek above Willow Creek Diversion nr Ukon, ID
-WILI	CH	Canal Gauge Height (feet)	Willow Creek Floodway Channel nr Ukon, ID
-WILI	GH	Gauge Height - Feet	Willow Creek Floodway Channel nr Ukon, ID
-WILI	Q	Discharge - CFS	Willow Creek Floodway Channel nr Ukon, ID
-WILI	QC	Canal Discharge - CFS	Willow Creek Floodway Channel nr Ukon, ID
-WTXI	GH	Gauge Height - Feet	Willow Creek below Tex Creek near Ririe, ID
-WTXI	Q	Discharge - CFS	Willow Creek below Tex Creek near Ririe, ID
-CRA	AF	Reservoir Storage - Acre-Feet	Crane Prairie Reservoir nr. LaPine, OR
-CRA	FB	Forebay Elevation - Feet	Crane Prairie Reservoir nr. LaPine, OR
-CRAO	GH	Gauge Height - Feet	Deschutes River below Crane Prairie Res., OR
-CRAO	Q	Discharge - CFS	Deschutes River below Crane Prairie Res., OR
-HAY	AF	Reservoir Storage - Acre-Feet	Haystack Reservoir near Culver, OR
-HAY	CH	Canal Stage - Feet	Haystack Reservoir near Culver, OR
-HAY	FB	Forebay Elevation - Feet	Haystack Reservoir near Culver, OR
-HAY	OB	Air Temperature - Deg. F	Haystack Reservoir near Culver, OR
-HAY	PC	Precip	Haystack Reservoir near Culver, OR
-HAY	Q	Discharge - CFS	Haystack Reservoir near Culver, OR
-WIC	AF	Reservoir Storage - Acre-Feet	Wickiup Reservoir near LaPine, OR
-WIC	FB	Forebay Elevation - Feet	Wickiup Reservoir near LaPine, OR
-WICO	GH	Gage Height - Feet	Deschutes River below Wickiup Res., OR
-WICO	Q	Discharge - CFS	Deschutes River below Wickiup Res., OR
-WICOWQ	GH	Sensor depth - (ft)	Water Quality Deschutes River below Wickiup
-WIWO	OB	Air Temperature - Deg. F	Wickiup Weather Station, OR
-WIWO	PC	PRECIP, CUMULATIVE (INCHES OF WATER) (12"Belfort)	Wickiup Weather Station, OR
-CFMM	GH	Gauge Height - Feet	Flathead River at Columbia Falls, MT
-CFMM	Q	Discharge - CFS	Flathead River at Columbia Falls, MT
-FCFM	GH	Gauge Height - Feet	North Fork Flathead River near Columbia Falls, MT
-FCFM	Q	Discharge - CFS	North Fork Flathead River near Columbia Falls, MT
-GDMM	OB	Air Temperature - Deg. F	Gibson Dam Weather Station
-GDMM	PC	PRECIP, CUMMULATIVE (INCHES OF WATER) (20"FB NWS)	Gibson Dam Weather Station
-HGH	AF	Reservoir Storage - Acre-Feet	Hungry Horse Reservoir near Hungry Horse, MT
-HGH	FB	Forebay Elevation - Feet	Hungry Horse Reservoir near Hungry Horse, MT
-HGH	GH	Gauge Height - Feet	Hungry Horse Reservoir near Hungry Horse, MT
-HGH	Q	Discharge - CFS	Hungry Horse Reservoir near Hungry Horse, MT
-HGHM	GH	Gauge Height - Feet	S.Fk. Flathead Riv nr Columbia Falls at Hungry Horse
-HGHM	Q	Discharge - CFS	S.Fk. Flathead Riv nr Columbia Falls at Hungry Horse
-HGWM	OB	Air Temperature - Deg. F	Hungry Horse Dam Weather Station, MT
-HGWM	PC	PRECIP, CUMMULATIVE, (INCHES OF WATER) (20"FP NWS)	Hungry Horse Dam Weather Station, MT
-SELM	OB	Air Temperature - Deg. F	Seeley Lake Ranger Station
-SELM	PC	PRECIP, CUMMULATIVE (INCHES OF WATER) (20"FP NWS)	Seeley Lake Ranger Station
-SUMM	OB	Air Temperature - Deg. F	Summit, MT
-SUMM	PC	PRECIP, CUMMULATIVE, (INCHES OF WATER) (20"FP NWS)	Summit, MT
-SWLM	OB	Air Temperature - Deg. F	Swan Lake
-SWLM	PC	PRECIP, CUMMULATIVE, (INCHES OF WATER) (20"FP NWS)	Swan Lake
-TNCM	GH	Gauge Height - Feet	South Fork Flathead River near Twincreek, MT
-TNCM	Q	Discharge - CFS	South Fork Flathead River near Twincreek, MT
-WGCM	GH	Gauge Height - Feet	Middle Fork Flathead River near West Glacier, MT
-WGCM	Q	Discharge - CFS	Middle Fork Flathead River near West Glacier, MT
-WGLM	OB	Air Temperature - Deg. F	West Glacier, MT
-WGLM	PC	PRECIP, CUMMULATIVE, (INCHES OF WATER) (20"FP NWS)	West Glacier, MT
-AGA	AF	Reservoir Storage - Acre-Feet	Agate Dam and Reservoir near Medford, OR
-AGA	CH	Feeder Canal Gage Height - Feet	Agate Dam and Reservoir near Medford, OR
-AGA	FB	Forebay Elevation - Feet	Agate Dam and Reservoir near Medford, OR
-AGA	GH	Gauge Height - Outlet Works Stilling Basin - Feet	Agate Dam and Reservoir near Medford, OR
-AGA	OB	Air Temperature - Deg. F	Agate Dam and Reservoir near Medford, OR
-AGA	PC	Precipitation, Cumulative (Inches) (Tipping Bucket)	Agate Dam and Reservoir near Medford, OR
-AGA	Q	Total Discharge - cfs	Agate Dam and Reservoir near Medford, OR
-AGA	QC	Feed Canal Inflow to Agate Reservoir	Agate Dam and Reservoir near Medford, OR
-ANTO	CH	Canal Gauge Height (feet)	Antelope Creek and Diversion at Dam
-ANTO	GH	Gauge Height - Feet	Antelope Creek and Diversion at Dam
-ANTO	Q	Discharge - CFS	Antelope Creek and Diversion at Dam
-ANTO	QC	Canal Discharge - CFS	Antelope Creek and Diversion at Dam
-ANTO	QZ	Discharge, Fish Screen Bypass - CFS	Antelope Creek and Diversion at Dam
-BASO	GH	Gauge Height - Feet	Bear Creek below Ashland Cr. at Ashland, OR
-BASO	Q	Discharge - CFS	Bear Creek below Ashland Cr. at Ashland, OR
-BBBO	GH	Gauge Height - Feet	Big Butte Ck below Butte Falls,OR
-BBBO	Q	Discharge - CFS	Big Butte Ck below Butte Falls,OR
-BCGO	CH	Gauge Height - Feet	Little Butte Ck Grinding Mill Race
-BCGO	QC		Little Butte Ck Grinding Mill Race
-BCSO	GH	Stage - Feet	Beaver Creek and Beaver Siphon at Howard Prairie Can
-BCSO	OB	Air Temperature - Degrees F	Beaver Creek and Beaver Siphon at Howard Prairie Can
-BCSO	Q	Discharge, cfs	Beaver Creek and Beaver Siphon at Howard Prairie Can
-BCTO	GH	Gauge Height - Feet	Bear Creek below Phoenix Diversion near Talent
-BCTO	Q	Discharge - cfs	Bear Creek below Phoenix Diversion near Talent
-CACO	CH	Canal Gauge Height (feet)	Cascade Canal near Fish Lake
-CACO	QC	Canal Discharge - CFS	Cascade Canal near Fish Lake
-DICO	CH	Canal Gauge Height (feet)	Dead Indian Collection Canal nr. Pinehurst, OR
-DICO	QC	Canal Discharge - CFS	Dead Indian Collection Canal nr. Pinehurst, OR
-EGSO	GH	Gauge Height - Feet	Emigrant Creek Above Green Springs Powerplant, OR
-EGSO	Q	Discharge - CFS	Emigrant Creek Above Green Springs Powerplant, OR
-EMI	AF	Reservoir Storage - Acre-Feet	Emigrant Dam and Lake near Ashland, OR
-EMI	CH	Canal Gauge Height (feet)	Emigrant Dam and Lake near Ashland, OR
-EMI	FB	Forebay Elevation - Feet	Emigrant Dam and Lake near Ashland, OR
-EMI	GH	Gauge Height - Feet	Emigrant Dam and Lake near Ashland, OR
-EMI	OB	Air Temperature - Deg. F	Emigrant Dam and Lake near Ashland, OR
-EMI	PC	PRECIP, CUMULATIVE (INCHES OF WATER) (12"Belfort)	Emigrant Dam and Lake near Ashland, OR
-EMI	Q	Discharge (River + Spillway) CFS	Emigrant Dam and Lake near Ashland, OR
-EMI	QC	East Lateral Canal Flow - CFS	Emigrant Dam and Lake near Ashland, OR
-EPCO	CH	Gauge Height - Feet	EPI Canal blw Cobleigh Rd nr Butte Falls,OR
-EPCO	QC	Canal Discharge - CFS	EPI Canal blw Cobleigh Rd nr Butte Falls,OR
-GCJO	GH	Gauge Height - Feet	GRIFFIN CR BL MURPHY CR
-GCJO	Q	Discharge - cfs	GRIFFIN CR BL MURPHY CR
-GSPO	AF		Green Springs Powerplant near Ashland, OR
-GSPO	OB	Air Temperature - Deg. F	Green Springs Powerplant near Ashland, OR
-GSPO	Q	Discharge - cfs	Green Springs Powerplant near Ashland, OR
-HPCO	AF	Reservoir Storage - AF	Howard Prairie Delivery Canal & Keene Creek Dam, OR
-HPCO	CH	Canal Stage - Feet	Howard Prairie Delivery Canal & Keene Creek Dam, OR
-HPCO	FB	Keene Creek Reservoir Forebay Elevation - Feet	Howard Prairie Delivery Canal & Keene Creek Dam, OR
-HPCO	OB	Air Temperature - Deg. F	Howard Prairie Delivery Canal & Keene Creek Dam, OR
-HPCO	Q	Spillway Discharge to Keene Creek - CFS	Howard Prairie Delivery Canal & Keene Creek Dam, OR
-HPCO	QC	Danal discharge - cfs	Howard Prairie Delivery Canal & Keene Creek Dam, OR
-HPD	AF	Reservoir Storage - Acre-Feet	Howard Prairie Lake and Dam near Ashland, OR
-HPD	CH	Canal Gauge Height (feet)	Howard Prairie Lake and Dam near Ashland, OR
-HPD	FB	Forebay Elevation - Feet	Howard Prairie Lake and Dam near Ashland, OR
-HPD	OB	Air Temperature - Deg. F	Howard Prairie Lake and Dam near Ashland, OR
-HPD	Q	Spillway Discharge to Jenny Creek - CFS	Howard Prairie Lake and Dam near Ashland, OR
-HPD	QC	Canal Discharge - cfs (flume sensor)	Howard Prairie Lake and Dam near Ashland, OR
-HPWO	OB	Air Temperature - Deg. F	Howard Prairie Dam Weather Station, OR
-HPWO	PC	Precipitation, Cumulative (Inches of Water) (TB)	Howard Prairie Dam Weather Station, OR
-HYA	AF	Reservoir Storage - Acre-Feet	Hyatt Dam and Reservoir near Ashland, OR
-HYA	FB	Forebay Elevation - Feet	Hyatt Dam and Reservoir near Ashland, OR
-HYA	GH	Gauge Height - Feet	Hyatt Dam and Reservoir near Ashland, OR
-HYA	OB	Air Temperature - Deg. F	Hyatt Dam and Reservoir near Ashland, OR
-HYA	PC	PRECIP, CUMULATIVE (INCHES OF WATER) (12" Belfort)	Hyatt Dam and Reservoir near Ashland, OR
-HYA	Q	Discharge, Outlet works - cfs	Hyatt Dam and Reservoir near Ashland, OR
-JCJO	GH	Gauge Height - Feet	JACKSON CR AT JACKSONVILLE
-JCJO	Q	Discharge - cfs	JACKSON CR AT JACKSONVILLE
-LBGO	GH	Gauge Height - Feet	Little Butte Ck at Eagle Point, OR
-LBGO	Q		Little Butte Ck at Eagle Point, OR
-MFDO	GH	Gauge Height - Feet	Bear Creek at Medford, OR
-MFDO	Q	Discharge - CFS	Bear Creek at Medford, OR
-NCFO	GH	Gauge Height - Feet	NEIL CR AB DUNN CR NR ASHLAND
-NCFO	Q	Discharge - cfs	NEIL CR AB DUNN CR NR ASHLAND
-NFFO	GH	Gauge Height - Feet	N. Fork Big Butte Crk nr Butte Falls,OR
-NFFO	Q	Discharge - CFS	N. Fork Big Butte Crk nr Butte Falls,OR
-SAWO	GH	Gauge Height - Feet	S. Fork Big Butte Ck abv Willow Ck
-SAWO	Q	Discharge - CFS	S. Fork Big Butte Ck abv Willow Ck
-SDCO	GH	Gage Height - Feet	Soda Creek at Howard Prairie Delivery Canal, OR
-SDCO	Q	Discharge - cfs	Soda Creek at Howard Prairie Delivery Canal, OR
-SLBO	CH	Canal Gauge Height (feet)	SF Little Butte Cr Collection Canal nr Pinehurst, OR
-SLBO	QC	Canal Discharge - CFS	SF Little Butte Cr Collection Canal nr Pinehurst, OR
-WMJO	CH	Canal Gauge Height (feet)	West Main Canal at Jacksonville
-WMJO	QC	Canal Discharge - cfs	West Main Canal at Jacksonville
-BBYI	GH	Gauge Height - Feet	BLACKFOOT RIV BYPASS NR BLACKFOOT, ID
-BBYI	Q	Discharge - CFS	BLACKFOOT RIV BYPASS NR BLACKFOOT, ID
-BLFI	GH	Gauge Height - Feet	Blackfoot River near Blackfoot, ID
-BLFI	Q	Discharge - CFS	Blackfoot River near Blackfoot, ID
-FRAI	GH	Gauge Height - Feet	FALLS RIVER NEAR ASHTON,ID
-FRAI	Q	Discharge - CFS	FALLS RIVER NEAR ASHTON,ID
-GROY	GH	Gauge Height - Feet	GROS VENTRE RIVER AT ZENITH, WYOMING
-GROY	Q	Discharge - CFS	GROS VENTRE RIVER AT ZENITH, WYOMING
-GWSI	GH	Gauge Height - Feet	GREAT WESTERN SPILLBACK NR IDAHO FALLS, IDAHO
-GWSI	Q	Discharge - CFS	GREAT WESTERN SPILLBACK NR IDAHO FALLS, IDAHO
-NFTI	GH	Gauge Height - Feet	North Fork Teton River near Sugar City, ID
-NFTI	Q	Discharge - cfs	North Fork Teton River near Sugar City, ID
-PIHI	GH	Gauge Height - Feet	PORTNEUF RIVER AT POCATELLO, IDAHO
-PIHI	Q	Discharge - CFS	PORTNEUF RIVER AT POCATELLO, IDAHO
-TTNI	GH	Gauge Height - Feet	N FK TETON RIVER AT TETON, IDAHO
-TTNI	Q	Discharge - CFS	N FK TETON RIVER AT TETON, IDAHO
-TTXI	GH	Gauge Height - Feet	S FK TETON RIVER AT REXBURG, IDAHO
-TTXI	Q	Discharge - CFS	S FK TETON RIVER AT REXBURG, IDAHO
-WFWI	GH	Gauge Height - Feet	WILLOW CR FLOODWAY AT MOUTH NR IDAHO FALLS, IDAHO
-WFWI	Q	Discharge - CFS	WILLOW CR FLOODWAY AT MOUTH NR IDAHO FALLS, IDAHO
-ALNO	CH	Canal Gauge Height (feet)	Allen Canal at Echo, OR
-ALNO	QC	Canal Discharge - CFS	Allen Canal at Echo, OR
-ALTO	CH	Canal Stage - Feet	A-Line Canal (Terminus) nr Hermiston, OR
-ALTO	QC	Canal Discharge - CFS	A-Line Canal (Terminus) nr Hermiston, OR
-BIRO	GH	Gauge Height - Feet	Birch Creek near Rieth, OR
-BIRO	Q	Discharge - CFS	Birch Creek near Rieth, OR
-CLS	AF	Reservoir Storage - Acre-Feet	Cold Springs Dam near Hermiston, OR
-CLS	FB	Forebay Elevation - Feet	Cold Springs Dam near Hermiston, OR
-CSAO	CH	Canal Gauge Height (feet)	US A Line Canal at Cold Springs Res nr Hermiston OR
-CSAO	QC	Canal Discharge - CFS	US A Line Canal at Cold Springs Res nr Hermiston OR
-CSRO	CH	Canal Gauge Height (feet)	Cold Springs Recharge Canal near Hermiston, OR
-CSRO	QC	Canal Discharge - CFS	Cold Springs Recharge Canal near Hermiston, OR
-DLEO	CH	Canal Gauge Height (feet)	Dillon Canal near Stanfield, OR
-DLEO	QC	Canal Discharge - CFS	Dillon Canal near Stanfield, OR
-FCEO	CH	Canal Gauge Height (feet)	Umatilla Project Feed Canal near Echo, OR
-FCEO	QC	Canal Discharge - CFS	Umatilla Project Feed Canal near Echo, OR
-FCSO	CH	Canal Gauge Height (feet)	Umatilla Project Feed Canal near Hermiston, OR
-FCSO	QC	Canal Discharge - CFS	Umatilla Project Feed Canal near Hermiston, OR
-FURO	CH	Canal Gauge Height (feet)	Furnish Canal above Crayne-Lisle Canal nr Echo, OR
-FURO	QC	Canal Discharge - CFS	Furnish Canal above Crayne-Lisle Canal nr Echo, OR
-MAFO	QC	Canal Flow - CFS	Maxwell Diversion
-MAWO	GH	Gauge Height - Feet	Maxwell Canal at Maxwell Fish Screen, OR
-MAXO	CH	Canal Gauge Height (feet)	Maxwell Canal near Hermiston, OR
-MAXO	QC	Canal Discharge - CFS	Maxwell Canal near Hermiston, OR
-MCFO	GH	Gauge Height - Feet	McKay Ck. Adult Fish Barrier
-PDTO	GH	Gauge Height - Feet	Umatilla River at Pendleton, OR
-PDTO	Q	Discharge - CFS	Umatilla River at Pendleton, OR
-SBEO	CH	Canal Gauge Height (feet)	Columbia Exchange Canal near Hermiston, OR
-SBEO	QC	Canal Discharge - CFS	Columbia Exchange Canal near Hermiston, OR
-UMAO	GH	Gauge Height - Feet	Umatilla River near Umatilla, OR
-UMAO	Q	Discharge - CFS	Umatilla River near Umatilla, OR
-UMDO	GH	Gauge Height - Feet	Umatilla River at I-84 near Stanfield, OR
-UMDO	Q	Discharge - CFS	Umatilla River at I-84 near Stanfield, OR
-UMMO	GH	Gauge Height - Feet	Umatilla River blw Maxwell canal nr Hermiston
-UMMO	Q	Discharge - CFS	Umatilla River blw Maxwell canal nr Hermiston
-UMMO	QC	Maxwell Canal Flow Above Fish Screen - CFS	Umatilla River blw Maxwell canal nr Hermiston
-UMTO	GH	Gauge Height - Feet	Umatilla River at City of Hermiston W.W. Treatment P
-UMTO	Q	Discharge - CFS	Umatilla River at City of Hermiston W.W. Treatment P
-UMUO	GH	Gauge Height - Feet	Umatilla River nr Echo, OR
-UMUO	Q	Discharge - CFS	Umatilla River nr Echo, OR
-WEIO	CH	Canal Gauge Height (feet)	West Div Main Canal bel WEID Pumps nr Umatilla OR
-WEIO	QC	Canal Discharge - CFS	West Div Main Canal bel WEID Pumps nr Umatilla OR
-WEPO	CH	Canal Stage - Feet	WEID Exchange Pump Plant near Umatilla, OR
-WEPO	QC	Canal Discharge - CFS	WEID Exchange Pump Plant near Umatilla, OR
-WESO	CH	Canal Gauge Height (feet)	Westland Canal near Echo, OR
-WESO	QC	Canal Discharge - CFS	Westland Canal near Echo, OR
-WEUO	AF		West Division Main Canal near Umatilla, OR
-WEUO	CH	Canal Gauge Height (feet)	West Division Main Canal near Umatilla, OR
-WEUO	FB	Forebay Elevation - Feet	West Division Main Canal near Umatilla, OR
-WEUO	QC	Canal Discharge - CFS	West Division Main Canal near Umatilla, OR
-AMRW	GH	Gauge Height - Feet	American River near Nile, WA
-AMRW	Q	Discharge - CFS	American River near Nile, WA
-AUGW	GH	Gauge Height - Feet	Ahtanum Creek at Union Gap
-AUGW	Q	Discharge - CFS	Ahtanum Creek at Union Gap
-BICW	GH	Gauge Height - Feet	Moxee Drain at Birchfield Road
-BUM	AF	Reservoir Storage - Acre-Feet	BUMPING RESERVOIR RIVER AND WEATHER STATION
-BUM	FB	Forebay Elevation - Feet	BUMPING RESERVOIR RIVER AND WEATHER STATION
-BUM	GH	Gauge Height - Feet	BUMPING RESERVOIR RIVER AND WEATHER STATION
-BUM	OB	Air Temperature - Deg. F	BUMPING RESERVOIR RIVER AND WEATHER STATION
-BUM	PC	PRECIP, CUMULATIVE (INCHES OF WATER)	BUMPING RESERVOIR RIVER AND WEATHER STATION
-BUM	Q	Discharge - CFS	BUMPING RESERVOIR RIVER AND WEATHER STATION
-CFSW	OB	Air Temperature - Deg. F	Chandler Fish Screen Weather Station
-CGWW	GH	Gauge Height - Feet	COWICHE CREEK AB. MOUTH
-CHCW	CH	Canal Gauge Height (feet)	CHANDLER - PROSSER POWER CANAL
-CHCW	QC	Canal Discharge - CFS	CHANDLER - PROSSER POWER CANAL
-CHRW	GH	Gauge Height - Feet	CHERRY CREEK (THRALL RD.,KITTITAS VAL)
-CHRW	Q	Discharge - CFS	CHERRY CREEK (THRALL RD.,KITTITAS VAL)
-CLE	AF	Reservoir Storage - Acre-Feet	CLE ELUM RESERVOIR,RIVER AND WEATHER STATION
-CLE	FB	Forebay Elevation - Feet	CLE ELUM RESERVOIR,RIVER AND WEATHER STATION
-CLE	GH	Gauge Height - Feet	CLE ELUM RESERVOIR,RIVER AND WEATHER STATION
-CLE	OB	Air Temperature - Deg. F	CLE ELUM RESERVOIR,RIVER AND WEATHER STATION
-CLE	PC	PRECIP, CUMULATIVE (INCHES OF WATER)	CLE ELUM RESERVOIR,RIVER AND WEATHER STATION
-CLE	Q	Discharge - CFS	CLE ELUM RESERVOIR,RIVER AND WEATHER STATION
-CLFW	GH	Gauge Height - Feet	NACHES RIVER NEAR CLIFFDELL ,WA.
-CLFW	OB	Air Temperature - Deg. F	NACHES RIVER NEAR CLIFFDELL ,WA.
-CLFW	Q	Discharge - CFS	NACHES RIVER NEAR CLIFFDELL ,WA.
-CLR	FB	Forebay Elevation - Feet	CLEAR LAKE (ELEV)
-CLYW	GH	Gauge Height - Feet	CLEAR LAKE OUTFLOW (N FORK TIETON R. BLW CLEAR LAKE)
-DEPW	GH	Gauge Height - Feet	DEEP CREEK BELOW COPPER CREEK
-DEPW	OB	Air Temperature - Deg. F	DEEP CREEK BELOW COPPER CREEK
-EASW	GH	Gauge Height - Feet	YAKIMA RIVER AT EASTON WA.
-EASW	Q	Discharge - CFS	YAKIMA RIVER AT EASTON WA.
-ELNW	GH	Gauge Height - Feet	YAKIMA RIVER NEAR ELLENSBURG ,WA.
-ELNW	Q	Discharge - CFS	YAKIMA RIVER NEAR ELLENSBURG ,WA.
-ETCW	CH	Canal Gauge Height (feet)	Ellensburg Town Canal
-ETCW	QC	Canal Discharge - CFS	Ellensburg Town Canal
-KAC	AF	Reservoir Storage - Acre-Feet	KACHESS RESERVOIR,RIVER AND WEATHER STATION
-KAC	FB	Forebay Elevation - Feet	KACHESS RESERVOIR,RIVER AND WEATHER STATION
-KAC	GH	Gauge Height - Feet	KACHESS RESERVOIR,RIVER AND WEATHER STATION
-KAC	PC	PRECIP, CUMULATIVE (INCHES OF WATER)	KACHESS RESERVOIR,RIVER AND WEATHER STATION
-KAC	Q	Discharge - CFS	KACHESS RESERVOIR,RIVER AND WEATHER STATION
-KEE	AF	Reservoir Storage - Acre-Feet	KEECHELUS RESERVOIR-YAK AT MARTIN AND WEATHER STA.
-KEE	FB	Forebay Elevation - Feet	KEECHELUS RESERVOIR-YAK AT MARTIN AND WEATHER STA.
-KEE	GH	Gauge Height - Feet	KEECHELUS RESERVOIR-YAK AT MARTIN AND WEATHER STA.
-KEE	OB	Air Temperature - Deg. F	KEECHELUS RESERVOIR-YAK AT MARTIN AND WEATHER STA.
-KEE	PC	PRECIP, CUMULATIVE (INCHES OF WATER)	KEECHELUS RESERVOIR-YAK AT MARTIN AND WEATHER STA.
-KEE	Q	Discharge - CFS	KEECHELUS RESERVOIR-YAK AT MARTIN AND WEATHER STA.
-KIOW	GH	Gauge Height - Feet	YAKIMA RIVER AT KIONA, WA
-KIOW	Q	Discharge - CFS	YAKIMA RIVER AT KIONA, WA
-KNCW	CH	Canal Gauge Height (feet)	KENNEWICK CANAL
-KNCW	QC	Canal Discharge - CFS	KENNEWICK CANAL
-KTCW	CH	Canal Gauge Height (feet)	KITTITAS CANAL
-KTCW	OB	Air Temperature - Deg. F	KITTITAS CANAL
-KTCW	QC	Canal Discharge - CFS	KITTITAS CANAL
-LNRW	GH	Gauge Height - Feet	LITTLE NACHES RIVER NEAR NILE, WA
-LNRW	Q	Discharge - CFS	LITTLE NACHES RIVER NEAR NILE, WA
-NACW	GH	GAGE HEIGHT, INSTANTANEOUS (FEET)	NACHES RIVER NEAR NACHES,WA.
-NACW	Q	DISCHARGE, INSTANTANEOUS (KCFS)	NACHES RIVER NEAR NACHES,WA.
-NRYW	GH	Gauge Height - Feet	NACHES RIVER NEAR YAKIMA, WA
-NRYW	Q	Discharge - CFS	NACHES RIVER NEAR YAKIMA, WA
-NSCW	CH	Canal Gauge Height (feet)	NACHES SELAH CANAL
-NSCW	QC	Canal Discharge - CFS	NACHES SELAH CANAL
-PAR	FB	Forebay Elevation - Feet	YAK RIVER NR. PARKER SUNNYSIDE POOL
-PARW	GH	Gauge Height - Feet	YAKIMA RIVER NEAR PARKER, WA.
-PARW	Q	Discharge - CFS	YAKIMA RIVER NEAR PARKER, WA.
-PRO	FB	Forebay Elevation - Feet	PROSSER RESERVOIR
-PRO	OB	Air Temperature - Deg. F	PROSSER RESERVOIR
-RBDW	GH	Gauge Height - Feet	YAKIMA RIVER BELOW ROZA DAM
-RBDW	Q	Discharge - CFS	YAKIMA RIVER BELOW ROZA DAM
-RDR	AF	Reservoir Storage - Acre-Feet	ROZA RESERVOIR
-RDR	FB	Forebay Elevation - Feet	ROZA RESERVOIR
-RDR	OB	Air Temperature - Deg. F	ROZA RESERVOIR
-RIM	AF	Reservoir Storage - Acre-Feet	RIMROCK RESERVOIR,TIETON RIVER AND WEATHER STATION
-RIM	FB	Forebay Elevation - Feet	RIMROCK RESERVOIR,TIETON RIVER AND WEATHER STATION
-RIM	GH	Gauge Height - Feet	RIMROCK RESERVOIR,TIETON RIVER AND WEATHER STATION
-RIM	OB	Air Temperature - Deg. F	RIMROCK RESERVOIR,TIETON RIVER AND WEATHER STATION
-RIM	PC	PRECIP, CUMULATIVE (INCHES OF WATER)	RIMROCK RESERVOIR,TIETON RIVER AND WEATHER STATION
-RIM	Q	Discharge - CFS	RIMROCK RESERVOIR,TIETON RIVER AND WEATHER STATION
-ROZW	CH	CANAL STAGE, INST. (FEET)	ROZA CANAL AT 11.0 MILE
-ROZW	QC	DISCHARGE, CANAL DIVERSION (KCFS)	ROZA CANAL AT 11.0 MILE
-RSCW	CH	Canal Gauge Height (feet)	NEW RESERVATION CANAL
-RSCW	QC	Canal Discharge - CFS	NEW RESERVATION CANAL
-RZCW	CH	Canal Gauge Height (feet)	ROZA CANAL AT HEADWORKS
-RZCW	QC	Canal Discharge - CFS	ROZA CANAL AT HEADWORKS
-SNCW	CH	Canal Gauge Height (feet)	SUNNYSIDE CANAL
-SNCW	QC	Canal Discharge - CFS	SUNNYSIDE CANAL
-SOUW	CH	Canal Gauge Height (feet)	SOUTH NACHES CHANNEL COMPANY CANAL
-SOUW	QC	Canal Discharge - CFS	SOUTH NACHES CHANNEL COMPANY CANAL
-SUCW	GH	Gauge Height - Feet	SULPHUR CREEK AT HOLIDAY ROAD NEAR SUNNYSIDE
-SUCW	Q	Discharge - CFS	SULPHUR CREEK AT HOLIDAY ROAD NEAR SUNNYSIDE
-SWLW	GH	Gauge Height - Feet	SWAMP LAKE CR. NR CRYSTAL SPRINGS CAMPGROUND
-TCBW	GH	Gauge Height - Feet	TANEUM Creek nr Brain Ranch
-TEAW	GH	Gauge Height - Feet	TEANAWAY RIVER BELOW LAMBERT ROAD
-TEAW	Q	Discharge - CFS	TEANAWAY RIVER BELOW LAMBERT ROAD
-TICW	GH	Gauge Height - Feet	TIETON RIVER NEAR TIETON CANAL HEADWORKS
-TICW	OB	Air Temperature - Deg. F	TIETON RIVER NEAR TIETON CANAL HEADWORKS
-TICW	PC	PRECIP, CUMULATIVE (INCHES OF WATER)	TIETON RIVER NEAR TIETON CANAL HEADWORKS
-TICW	Q	Discharge - CFS	TIETON RIVER NEAR TIETON CANAL HEADWORKS
-TIEW	CH	Canal Gauge Height (feet)	TIETON CANAL
-TIEW	QC	Canal Discharge - CFS	TIETON CANAL
-TNAW	GH	Gauge Height - Feet	TEANAWAY RIVER AT FORKS NEAR CLE ELUM, WA
-TNAW	OB	Air Temperature - Deg. F	TEANAWAY RIVER AT FORKS NEAR CLE ELUM, WA
-TNAW	PC	PRECIP, CUMULATIVE (INCHES OF WATER)	TEANAWAY RIVER AT FORKS NEAR CLE ELUM, WA
-TNAW	Q	Discharge - CFS	TEANAWAY RIVER AT FORKS NEAR CLE ELUM, WA
-UMTW	GH	Gauge Height - Feet	YAKIMA RIVER NEAR UMTANUM ,WA.
-UMTW	Q	Discharge - CFS	YAKIMA RIVER NEAR UMTANUM ,WA.
-WESW	CH	Canal Gauge Height (feet)	WESTSIDE CANAL
-WESW	QC	Canal Discharge - CFS	WESTSIDE CANAL
-WONW	GH	Gauge Height - Feet	WILSON CREEK (THRALL RD.,KITTITAS VAL)
-WONW	Q	Discharge - CFS	WILSON CREEK (THRALL RD.,KITTITAS VAL)
-WOPW	CH	CANAL STAGE, INST. (FEET)	WAPATOX POWER CANAL
-WOPW	QC	DISCHARGE, CANAL DIVERSION (KCFS)	WAPATOX POWER CANAL
-YGVW	GH	Gauge Height - Feet	YAKIMA RIVER AT EUCLID RD. BR. NEAR GRANDVIEW,WA.
-YGVW	Q	Discharge - CFS	YAKIMA RIVER AT EUCLID RD. BR. NEAR GRANDVIEW,WA.
-YRCW	GH	Gauge Height - Feet	YAKIMA RIVER AT CRYSTAL SPRINGS
-YRCW	Q	Discharge - CFS	YAKIMA RIVER AT CRYSTAL SPRINGS
-YRPW	GH	Gauge Height - Feet	YAKIMA RIVER NEAR PROSSER ,WA.
-YRPW	OB	Air Temperature - Deg. F	YAKIMA RIVER NEAR PROSSER ,WA.
-YRPW	Q	Discharge - CFS	YAKIMA RIVER NEAR PROSSER ,WA.
-YRTW	GH	Gauge Height - Feet	YAKIMA RIVER AT TERRACE HEIGHTS BRIDGE
-YRTW	Q	Discharge - CFS	YAKIMA RIVER AT TERRACE HEIGHTS BRIDGE
-YRWW	GH	Gauge Height - Feet	YAKIMA RIVER NEAR HORLICK ,WA.
-YRWW	Q	Discharge - CFS	YAKIMA RIVER NEAR HORLICK ,WA.
-YUMW	GH	GAGE HEIGHT, INSTANTANEOUS (FEET)	YAKIMA RIVER AT CLE ELUM , WA.
-YUMW	Q	Discharge - CFS	YAKIMA RIVER AT CLE ELUM , WA.
+UBBO	GH	P	Gauge Height - Feet	Umatilla River below Butter Creek
+UBBO	Q	P	Discharge - CFS	Umatilla River below Butter Creek
+ALPY	GH	M	Gauge Height - Feet	Snake River above Reservoir near Alpine, WY
+ALPY	Q	M	Discharge - CFS	Snake River above Reservoir near Alpine, WY
+ALTY	OB	M	Air Temperature - Deg. F	Alta Wyoming Weather Station
+ALTY	PC	M	PRECIP, CUMULATIVE (INCHES OF WATER) (30" BELFORT)	Alta Wyoming Weather Station
+AMF	AF	M	Reservoir Storage - Acre-Feet	American Falls Reservoir at American Falls, ID
+AMF	FB	M	Forebay Elevation - Feet	American Falls Reservoir at American Falls, ID
+AMF	OB	M	Air Temperature - Deg. F	American Falls Reservoir at American Falls, ID
+AMF	PC	M	PRECIP, CUMULATIVE (INCHES OF WATER) (12" Belfort)	American Falls Reservoir at American Falls, ID
+AMF	Q	M	Discharge - CFS	American Falls Reservoir at American Falls, ID
+AMFI	GH	M	Gauge Height - Feet	Snake River at Neeley, ID
+AMFI	OB	M	Air Temperature - Deg. F	Snake River at Neeley, ID
+AMFI	Q	M	Discharge - CFS	Snake River at Neeley, ID
+ANTI	GH	M	Gauge Height - Feet	Henrys Fork at St. Anthony, ID
+ANTI	Q	M	Discharge - CFS	Henrys Fork at St. Anthony, ID
+BFKY	GH	M	Gauge Height - Feet	Buffalo Fork above Lava Creek near Moran, WY
+BFKY	Q	M	Discharge - CFS	Buffalo Fork above Lava Creek near Moran, WY
+BFTI	GH	M	Gauge Height - Feet	Snake River near Blackfoot, ID
+BFTI	Q	M	Discharge - CFS	Snake River near Blackfoot, ID
+BNWI	OB	M	Air Temperature - Deg . F	Bone, ID
+BNWI	PC	M	PRECIP, CUMULATIVE (INCHES OF WATER) (30" BELFORT)	Bone, ID
+BONY	OB	M	Air Temperature - Deg. F	Bondurant 3NW
+BONY	PC	M	PRECIP, CUMULATIVE (INCHES OF WATER)(Validyne P55D) 55"H2O	Bondurant 3NW
+BOUY	OB	M	Air Temperature - Deg. F	Bondurant 4NW (NWS)
+BOUY	PC	M	Precipitation, Cumulative - Inches (20"FP NWS)	Bondurant 4NW (NWS)
+CHEI	GH	M	Gauge Height - Feet	Falls River near Chester, ID
+CHEI	Q	M	Discharge - CFS	Falls River near Chester, ID
+DRYI	GH	M	Gauge Height - Feet	Dry Bed near Ririe, ID
+DRYI	Q	M	Discharge - CFS	Dry Bed near Ririe, ID
+ELCI	CH	M	Canal Gauge Height (feet)	Eagle Rock Canal near Hwy 26
+ELCI	QC	M	Canal Discharge - CFS	Eagle Rock Canal near Hwy 26
+FALI	GH	M	Gauge Height - Feet	Falls River near Squirrel, ID
+FALI	Q	M	Discharge - CFS	Falls River near Squirrel, ID
+FLGY	GH	M	Gauge Height - Feet	Snake River near Flagg Ranch, WY
+FLGY	Q	M	Discharge - CFS	Snake River near Flagg Ranch, WY
+GCKY	OB	M	Air Temperature - Deg. F	Glade Creek
+GCKY	PC	M	PRECIP, CUMULATIVE (INCHES OF WATER) (30"Belfort)	Glade Creek
+GREY	GH	M	Gauge Height - Feet	Greys River above Reservoir near Alpine, WY
+GREY	Q	M	Discharge - CFS	Greys River above Reservoir near Alpine, WY
+GRS	AF	M	Reservoir Storage - Acre-Feet	Grassy Lake near Moran, WY
+GRS	FB	M	Forebay Elevation - Feet	Grassy Lake near Moran, WY
+GRS	GH	M	Gauge Height - Feet  (outlet channel)	Grassy Lake near Moran, WY
+HEII	GH	M	Gauge Height - Feet	Snake River near Heise, ID
+HEII	Q	M	Discharge - CFS	Snake River near Heise, ID
+HEN	AF	M	Reservoir Storage - Acre-Feet	Henrys Lake Dam on Henrys Fork nr. Lake, ID
+HEN	FB	M	Forebay Elevation - Feet	Henrys Lake Dam on Henrys Fork nr. Lake, ID
+HENI	GH	M	Gauge Height - Feet	Henrys Fork near Lake, ID
+HENI	Q	M	Discharge - CFS	Henrys Fork near Lake, ID
+HFAI	GH	M	Gauge Height - Feet	Henrys Fork near Ashton, ID
+HFAI	Q	M	Discharge - CFS	Henrys Fork near Ashton, ID
+HKBY	OB	M	Air Temperature - Deg. F	Huckleberry Divide, WY
+HKBY	PC	M	PRECIP, CUMULATIVE (INCHES OF WATER) (30"Belfort)	Huckleberry Divide, WY
+IDFI	OB	M	Air Temperature - Deg. F	Idaho Falls 16SE
+IDFI	PC	M	PRECIP, CUMULATIVE (INCHES OF WATER)(30" belfort,8/94)	Idaho Falls 16SE
+ISL	AF	M	Reservoir Storage - Acre-Feet	Island Park Dam and Reservoir, ID
+ISL	FB	M	Forebay Elevation - Feet	Island Park Dam and Reservoir, ID
+ISL	OB	M	Air Temperature - Deg. F	Island Park Dam and Reservoir, ID
+ISL	Q	M	Discharge - CFS	Island Park Dam and Reservoir, ID
+ISLI	GH	M	Gauge Height - Feet	Henrys Fork near Island Park, ID
+ISLI	Q	M	Discharge - CFS	Henrys Fork near Island Park, ID
+JCK	AF	M	Reservoir Storage - Acre-Feet	Jackson Lake at Dam on Snake River near Moran, WY
+JCK	FB	M	Forebay Elevation - Feet	Jackson Lake at Dam on Snake River near Moran, WY
+JCK	GH	M	Gauge Height - Feet	Jackson Lake at Dam on Snake River near Moran, WY
+JCK	OB	M	Air Temperature - Deg. F	Jackson Lake at Dam on Snake River near Moran, WY
+JCK	PC	M	Precipitation, Cumulative - Inches (20"FP NWS)	Jackson Lake at Dam on Snake River near Moran, WY
+JCK	Q	M	Discharge - CFS	Jackson Lake at Dam on Snake River near Moran, WY
+JKNY	OB	M	Air Temperature - Deg. F	Jackson WY Weather Station
+JKNY	PC	M	Precipitation, Cumulative - Inches (20"FP NWS)	Jackson WY Weather Station
+JKSY	GH	M	Gauge Height - Feet	Snake River below Flat Creek near Jackson, WY
+JKSY	Q	M	Discharge - CFS	Snake River below Flat Creek near Jackson, WY
+LORI	GH	M	Gauge Height - Feet	Snake River at Lorenzo, ID
+LORI	Q	M	Discharge - CFS	Snake River at Lorenzo, ID
+MCHI	QC	M	Canal Discharge - CFS	MICHAUD CANAL AT AMERICAN FALLS (PUMPING PLANT)
+MGAI	CH	M	Canal Gauge Height (feet)	MILNER-GOODING A LATERAL CANAL
+MGAI	QC	M	Canal Discharge - CFS	MILNER-GOODING A LATERAL CANAL
+MHPI	Q	M	Total Discharge (QE + QZ) - cfs	Milner Power Plant (Idaho Power Co.)
+MHPI	QE	M	Powerplant Discharge, Unit 1 - cfs	Milner Power Plant (Idaho Power Co.)
+MHPI	QZ	M	Powerplant Discharge, Unit 2 - cfs	Milner Power Plant (Idaho Power Co.)
+MIL	AF	M	Reservoir Storage - Acre-Feet	Milner Dam and Reservoir, Idaho
+MIL	FB	M	Forebay Elevation - Feet	Milner Dam and Reservoir, Idaho
+MILI	GH	M	Gauge Height - Feet	Snake River at Milner, Idaho
+MILI	Q	M	Discharge - CFS	Snake River at Milner, Idaho
+MILI	QT	M	Total Combined Flow MILI Q + MHPI QE + MHPI QZ	Snake River at Milner, Idaho
+MIN	AF	M	Reservoir Storage - Acre-Feet	Minidoka Dam and Lake Walcott, ID
+MIN	CH	M	MINIDOKA NORTHSIDE CANAL STAGE, FEET	Minidoka Dam and Lake Walcott, ID
+MIN	FB	M	Forebay Elevation - Feet	Minidoka Dam and Lake Walcott, ID
+MIN	GH	M	Gauge Height - Feet	Minidoka Dam and Lake Walcott, ID
+MIN	OB	M	Air Temperature - Deg. F	Minidoka Dam and Lake Walcott, ID
+MIN	PC	M	PRECIP, CUMULATIVE (INCHES OF WATER) (12" Belfort)	Minidoka Dam and Lake Walcott, ID
+MINI	GH	M	Gauge Height - Feet	Snake River near Minidoka, ID
+MINI	Q	M	Discharge - CFS	Snake River near Minidoka, ID
+NMCI	CH	M	Canal Gauge Height - Feet	Minidoka Northside Canal
+NMCI	QC	M	Canal Discharge - CFS	Minidoka Northside Canal
+OAKI	AF	M	Reservoir Storage - Acre-Feet	OAKLEY RESERVOIR
+OAKI	FB	M	Forebay Elevation - Feet	OAKLEY RESERVOIR
+OAKI	Q	M	Discharge - CFS	OAKLEY RESERVOIR
+PAL	AF	M	Reservoir Storage - Acre-Feet	Palisades Reservoir near Irwin, ID
+PAL	FB	M	Forebay Elevation - Feet	Palisades Reservoir near Irwin, ID
+PAL	GH	M	Gauge Height - Feet	Palisades Reservoir near Irwin, ID
+PALI	GH	M	Gauge Height - Feet	Snake River near Irwin, ID
+PALI	OB	M	Air Temperature - Deg. F	Snake River near Irwin, ID
+PALI	PC	M	PRECIP, CUMULATIVE (INCHES OF WATER) (20"Belfort)	Snake River near Irwin, ID
+PALI	Q	M	Discharge - CFS	Snake River near Irwin, ID
+PCKY	GH	M	Gauge Height - Feet	Pacific Creek at Moran, WY
+PCKY	Q	M	Discharge - CFS	Pacific Creek at Moran, WY
+REXI	GH	M	Gauge Height - Feet	Henrys Fork near Rexburg, ID
+REXI	Q	M	Discharge - CFS	Henrys Fork near Rexburg, ID
+RIR	AF	M	Reservoir Storage - Acre-Feet	Ririe Dam and Lake near Ririe, ID
+RIR	FB	M	Forebay Elevation - Feet	Ririe Dam and Lake near Ririe, ID
+RIR	Q	M	Discharge - CFS	Ririe Dam and Lake near Ririe, ID
+RIWI	OB	M	Air Temperature - Deg. F	Ririe Dam Weather Station
+RIWI	PC	M	PRECIP, CUMULATIVE (INCHES OF WATER) (12"Belfort)	Ririe Dam Weather Station
+SALY	GH	M	Gauge Height - Feet	Salt River above Reservoir near Etna, WY
+SALY	OB	M	Air Temperature - Deg. F	Salt River above Reservoir near Etna, WY
+SALY	PC	M	Precipitation, Cumulative - (tipping bucket)	Salt River above Reservoir near Etna, WY
+SALY	Q	M	Discharge - CFS	Salt River above Reservoir near Etna, WY
+SHYI	GH	M	Gauge Height - Feet	Snake River near Shelley, ID
+SHYI	Q	M	Discharge - CFS	Snake River near Shelley, ID
+SKRY	OB	M	Air Temperature - Deg. F	Snake River Station, WY
+SKRY	PC	M	Precipitation - Inches	Snake River Station, WY
+SMCI	CH	M	Canal Gauge Height (feet)	Minidoka Southside Canal
+SMCI	QC	M	Canal Discharge - CFS	Minidoka Southside Canal
+SNAI	GH	M	Gauge Height - Feet	Snake River at Blackfoot, ID
+SNAI	Q	M	Discharge - CFS	Snake River at Blackfoot, ID
+SRKI	Q	M	Discharge - CFS	Snake River at Kimberly, ID
+SWII	QC	M	remaining flow in drain (-) or flow from river (+)	South West Irr Dist Diversion Burley Main Drain, ID
+TEAI	GH	M	Gauge Height - Feet	Teton River near St. Anthony, ID
+TEAI	Q	M	Discharge - CFS	Teton River near St. Anthony, ID
+VLVI	OB	M	Air Temperature - Deg. F	Valley View
+VLVI	PC	M	Precipitation, Cumulative, Inches of Water (30in Belfort)	Valley View
+WBFI	CH	M	Canal Gauge Height (feet)	Willow Creek Below Floodway Channel nr. Ucon, ID
+WBFI	QC	M	Canal Discharge - CFS	Willow Creek Below Floodway Channel nr. Ucon, ID
+WIFI	GH	M	Gauge Height - Feet	Sand Creek above Willow Creek Diversion nr Ukon, ID
+WIFI	Q	M	Discharge - CFS	Sand Creek above Willow Creek Diversion nr Ukon, ID
+WILI	CH	M	Canal Gauge Height (feet)	Willow Creek Floodway Channel nr Ukon, ID
+WILI	GH	M	Gauge Height - Feet	Willow Creek Floodway Channel nr Ukon, ID
+WILI	Q	M	Discharge - CFS	Willow Creek Floodway Channel nr Ukon, ID
+WILI	QC	M	Canal Discharge - CFS	Willow Creek Floodway Channel nr Ukon, ID
+WTXI	GH	M	Gauge Height - Feet	Willow Creek below Tex Creek near Ririe, ID
+WTXI	Q	M	Discharge - CFS	Willow Creek below Tex Creek near Ririe, ID
+CRA	AF	P	Reservoir Storage - Acre-Feet	Crane Prairie Reservoir nr. LaPine, OR
+CRA	FB	P	Forebay Elevation - Feet	Crane Prairie Reservoir nr. LaPine, OR
+CRAO	GH	P	Gauge Height - Feet	Deschutes River below Crane Prairie Res., OR
+CRAO	Q	P	Discharge - CFS	Deschutes River below Crane Prairie Res., OR
+HAY	AF	P	Reservoir Storage - Acre-Feet	Haystack Reservoir near Culver, OR
+HAY	CH	P	Canal Stage - Feet	Haystack Reservoir near Culver, OR
+HAY	FB	P	Forebay Elevation - Feet	Haystack Reservoir near Culver, OR
+HAY	OB	P	Air Temperature - Deg. F	Haystack Reservoir near Culver, OR
+HAY	PC	P	Precip	Haystack Reservoir near Culver, OR
+HAY	Q	P	Discharge - CFS	Haystack Reservoir near Culver, OR
+WIC	AF	P	Reservoir Storage - Acre-Feet	Wickiup Reservoir near LaPine, OR
+WIC	FB	P	Forebay Elevation - Feet	Wickiup Reservoir near LaPine, OR
+WICO	GH	P	Gage Height - Feet	Deschutes River below Wickiup Res., OR
+WICO	Q	P	Discharge - CFS	Deschutes River below Wickiup Res., OR
+WICOWQ	GH	P	Sensor depth - (ft)	Water Quality Deschutes River below Wickiup
+WIWO	OB	P	Air Temperature - Deg. F	Wickiup Weather Station, OR
+WIWO	PC	P	PRECIP, CUMULATIVE (INCHES OF WATER) (12"Belfort)	Wickiup Weather Station, OR
+CFMM	GH	M	Gauge Height - Feet	Flathead River at Columbia Falls, MT
+CFMM	Q	M	Discharge - CFS	Flathead River at Columbia Falls, MT
+FCFM	GH	M	Gauge Height - Feet	North Fork Flathead River near Columbia Falls, MT
+FCFM	Q	M	Discharge - CFS	North Fork Flathead River near Columbia Falls, MT
+GDMM	OB	M	Air Temperature - Deg. F	Gibson Dam Weather Station
+GDMM	PC	M	PRECIP, CUMMULATIVE (INCHES OF WATER) (20"FB NWS)	Gibson Dam Weather Station
+HGH	AF	M	Reservoir Storage - Acre-Feet	Hungry Horse Reservoir near Hungry Horse, MT
+HGH	FB	M	Forebay Elevation - Feet	Hungry Horse Reservoir near Hungry Horse, MT
+HGH	GH	M	Gauge Height - Feet	Hungry Horse Reservoir near Hungry Horse, MT
+HGH	Q	M	Discharge - CFS	Hungry Horse Reservoir near Hungry Horse, MT
+HGHM	GH	M	Gauge Height - Feet	S.Fk. Flathead Riv nr Columbia Falls at Hungry Horse
+HGHM	Q	M	Discharge - CFS	S.Fk. Flathead Riv nr Columbia Falls at Hungry Horse
+HGWM	OB	M	Air Temperature - Deg. F	Hungry Horse Dam Weather Station, MT
+HGWM	PC	M	PRECIP, CUMMULATIVE, (INCHES OF WATER) (20"FP NWS)	Hungry Horse Dam Weather Station, MT
+SELM	OB	M	Air Temperature - Deg. F	Seeley Lake Ranger Station
+SELM	PC	M	PRECIP, CUMMULATIVE (INCHES OF WATER) (20"FP NWS)	Seeley Lake Ranger Station
+SUMM	OB	M	Air Temperature - Deg. F	Summit, MT
+SUMM	PC	M	PRECIP, CUMMULATIVE, (INCHES OF WATER) (20"FP NWS)	Summit, MT
+SWLM	OB	M	Air Temperature - Deg. F	Swan Lake
+SWLM	PC	M	PRECIP, CUMMULATIVE, (INCHES OF WATER) (20"FP NWS)	Swan Lake
+TNCM	GH	M	Gauge Height - Feet	South Fork Flathead River near Twincreek, MT
+TNCM	Q	M	Discharge - CFS	South Fork Flathead River near Twincreek, MT
+WGCM	GH	M	Gauge Height - Feet	Middle Fork Flathead River near West Glacier, MT
+WGCM	Q	M	Discharge - CFS	Middle Fork Flathead River near West Glacier, MT
+WGLM	OB	M	Air Temperature - Deg. F	West Glacier, MT
+WGLM	PC	M	PRECIP, CUMMULATIVE, (INCHES OF WATER) (20"FP NWS)	West Glacier, MT
+AGA	AF	P	Reservoir Storage - Acre-Feet	Agate Dam and Reservoir near Medford, OR
+AGA	CH	P	Feeder Canal Gage Height - Feet	Agate Dam and Reservoir near Medford, OR
+AGA	FB	P	Forebay Elevation - Feet	Agate Dam and Reservoir near Medford, OR
+AGA	GH	P	Gauge Height - Outlet Works Stilling Basin - Feet	Agate Dam and Reservoir near Medford, OR
+AGA	OB	P	Air Temperature - Deg. F	Agate Dam and Reservoir near Medford, OR
+AGA	PC	P	Precipitation, Cumulative (Inches) (Tipping Bucket)	Agate Dam and Reservoir near Medford, OR
+AGA	Q	P	Total Discharge - cfs	Agate Dam and Reservoir near Medford, OR
+AGA	QC	P	Feed Canal Inflow to Agate Reservoir	Agate Dam and Reservoir near Medford, OR
+ANTO	CH	P	Canal Gauge Height (feet)	Antelope Creek and Diversion at Dam
+ANTO	GH	P	Gauge Height - Feet	Antelope Creek and Diversion at Dam
+ANTO	Q	P	Discharge - CFS	Antelope Creek and Diversion at Dam
+ANTO	QC	P	Canal Discharge - CFS	Antelope Creek and Diversion at Dam
+ANTO	QZ	P	Discharge, Fish Screen Bypass - CFS	Antelope Creek and Diversion at Dam
+BASO	GH	P	Gauge Height - Feet	Bear Creek below Ashland Cr. at Ashland, OR
+BASO	Q	P	Discharge - CFS	Bear Creek below Ashland Cr. at Ashland, OR
+BBBO	GH	P	Gauge Height - Feet	Big Butte Ck below Butte Falls,OR
+BBBO	Q	P	Discharge - CFS	Big Butte Ck below Butte Falls,OR
+BCGO	CH	P	Gauge Height - Feet	Little Butte Ck Grinding Mill Race
+BCGO	QC	P		Little Butte Ck Grinding Mill Race
+BCSO	GH	P	Stage - Feet	Beaver Creek and Beaver Siphon at Howard Prairie Can
+BCSO	OB	P	Air Temperature - Degrees F	Beaver Creek and Beaver Siphon at Howard Prairie Can
+BCSO	Q	P	Discharge, cfs	Beaver Creek and Beaver Siphon at Howard Prairie Can
+BCTO	GH	P	Gauge Height - Feet	Bear Creek below Phoenix Diversion near Talent
+BCTO	Q	P	Discharge - cfs	Bear Creek below Phoenix Diversion near Talent
+CACO	CH	P	Canal Gauge Height (feet)	Cascade Canal near Fish Lake
+CACO	QC	P	Canal Discharge - CFS	Cascade Canal near Fish Lake
+DICO	CH	P	Canal Gauge Height (feet)	Dead Indian Collection Canal nr. Pinehurst, OR
+DICO	QC	P	Canal Discharge - CFS	Dead Indian Collection Canal nr. Pinehurst, OR
+EGSO	GH	P	Gauge Height - Feet	Emigrant Creek Above Green Springs Powerplant, OR
+EGSO	Q	P	Discharge - CFS	Emigrant Creek Above Green Springs Powerplant, OR
+EMI	AF	P	Reservoir Storage - Acre-Feet	Emigrant Dam and Lake near Ashland, OR
+EMI	CH	P	Canal Gauge Height (feet)	Emigrant Dam and Lake near Ashland, OR
+EMI	FB	P	Forebay Elevation - Feet	Emigrant Dam and Lake near Ashland, OR
+EMI	GH	P	Gauge Height - Feet	Emigrant Dam and Lake near Ashland, OR
+EMI	OB	P	Air Temperature - Deg. F	Emigrant Dam and Lake near Ashland, OR
+EMI	PC	P	PRECIP, CUMULATIVE (INCHES OF WATER) (12"Belfort)	Emigrant Dam and Lake near Ashland, OR
+EMI	Q	P	Discharge (River + Spillway) CFS	Emigrant Dam and Lake near Ashland, OR
+EMI	QC	P	East Lateral Canal Flow - CFS	Emigrant Dam and Lake near Ashland, OR
+EPCO	CH	P	Gauge Height - Feet	EPI Canal blw Cobleigh Rd nr Butte Falls,OR
+EPCO	QC	P	Canal Discharge - CFS	EPI Canal blw Cobleigh Rd nr Butte Falls,OR
+GCJO	GH	P	Gauge Height - Feet	GRIFFIN CR BL MURPHY CR
+GCJO	Q	P	Discharge - cfs	GRIFFIN CR BL MURPHY CR
+GSPO	AF	P		Green Springs Powerplant near Ashland, OR
+GSPO	OB	P	Air Temperature - Deg. F	Green Springs Powerplant near Ashland, OR
+GSPO	Q	P	Discharge - cfs	Green Springs Powerplant near Ashland, OR
+HPCO	AF	P	Reservoir Storage - AF	Howard Prairie Delivery Canal & Keene Creek Dam, OR
+HPCO	CH	P	Canal Stage - Feet	Howard Prairie Delivery Canal & Keene Creek Dam, OR
+HPCO	FB	P	Keene Creek Reservoir Forebay Elevation - Feet	Howard Prairie Delivery Canal & Keene Creek Dam, OR
+HPCO	OB	P	Air Temperature - Deg. F	Howard Prairie Delivery Canal & Keene Creek Dam, OR
+HPCO	Q	P	Spillway Discharge to Keene Creek - CFS	Howard Prairie Delivery Canal & Keene Creek Dam, OR
+HPCO	QC	P	Danal discharge - cfs	Howard Prairie Delivery Canal & Keene Creek Dam, OR
+HPD	AF	P	Reservoir Storage - Acre-Feet	Howard Prairie Lake and Dam near Ashland, OR
+HPD	CH	P	Canal Gauge Height (feet)	Howard Prairie Lake and Dam near Ashland, OR
+HPD	FB	P	Forebay Elevation - Feet	Howard Prairie Lake and Dam near Ashland, OR
+HPD	OB	P	Air Temperature - Deg. F	Howard Prairie Lake and Dam near Ashland, OR
+HPD	Q	P	Spillway Discharge to Jenny Creek - CFS	Howard Prairie Lake and Dam near Ashland, OR
+HPD	QC	P	Canal Discharge - cfs (flume sensor)	Howard Prairie Lake and Dam near Ashland, OR
+HPWO	OB	P	Air Temperature - Deg. F	Howard Prairie Dam Weather Station, OR
+HPWO	PC	P	Precipitation, Cumulative (Inches of Water) (TB)	Howard Prairie Dam Weather Station, OR
+HYA	AF	P	Reservoir Storage - Acre-Feet	Hyatt Dam and Reservoir near Ashland, OR
+HYA	FB	P	Forebay Elevation - Feet	Hyatt Dam and Reservoir near Ashland, OR
+HYA	GH	P	Gauge Height - Feet	Hyatt Dam and Reservoir near Ashland, OR
+HYA	OB	P	Air Temperature - Deg. F	Hyatt Dam and Reservoir near Ashland, OR
+HYA	PC	P	PRECIP, CUMULATIVE (INCHES OF WATER) (12" Belfort)	Hyatt Dam and Reservoir near Ashland, OR
+HYA	Q	P	Discharge, Outlet works - cfs	Hyatt Dam and Reservoir near Ashland, OR
+JCJO	GH	P	Gauge Height - Feet	JACKSON CR AT JACKSONVILLE
+JCJO	Q	P	Discharge - cfs	JACKSON CR AT JACKSONVILLE
+LBGO	GH	P	Gauge Height - Feet	Little Butte Ck at Eagle Point, OR
+LBGO	Q	P		Little Butte Ck at Eagle Point, OR
+MFDO	GH	P	Gauge Height - Feet	Bear Creek at Medford, OR
+MFDO	Q	P	Discharge - CFS	Bear Creek at Medford, OR
+NCFO	GH	P	Gauge Height - Feet	NEIL CR AB DUNN CR NR ASHLAND
+NCFO	Q	P	Discharge - cfs	NEIL CR AB DUNN CR NR ASHLAND
+NFFO	GH	P	Gauge Height - Feet	N. Fork Big Butte Crk nr Butte Falls,OR
+NFFO	Q	P	Discharge - CFS	N. Fork Big Butte Crk nr Butte Falls,OR
+SAWO	GH	P	Gauge Height - Feet	S. Fork Big Butte Ck abv Willow Ck
+SAWO	Q	P	Discharge - CFS	S. Fork Big Butte Ck abv Willow Ck
+SDCO	GH	P	Gage Height - Feet	Soda Creek at Howard Prairie Delivery Canal, OR
+SDCO	Q	P	Discharge - cfs	Soda Creek at Howard Prairie Delivery Canal, OR
+SLBO	CH	P	Canal Gauge Height (feet)	SF Little Butte Cr Collection Canal nr Pinehurst, OR
+SLBO	QC	P	Canal Discharge - CFS	SF Little Butte Cr Collection Canal nr Pinehurst, OR
+WMJO	CH	P	Canal Gauge Height (feet)	West Main Canal at Jacksonville
+WMJO	QC	P	Canal Discharge - cfs	West Main Canal at Jacksonville
+BBYI	GH	M	Gauge Height - Feet	BLACKFOOT RIV BYPASS NR BLACKFOOT, ID
+BBYI	Q	M	Discharge - CFS	BLACKFOOT RIV BYPASS NR BLACKFOOT, ID
+BLFI	GH	M	Gauge Height - Feet	Blackfoot River near Blackfoot, ID
+BLFI	Q	M	Discharge - CFS	Blackfoot River near Blackfoot, ID
+FRAI	GH	M	Gauge Height - Feet	FALLS RIVER NEAR ASHTON,ID
+FRAI	Q	M	Discharge - CFS	FALLS RIVER NEAR ASHTON,ID
+GROY	GH	M	Gauge Height - Feet	GROS VENTRE RIVER AT ZENITH, WYOMING
+GROY	Q	M	Discharge - CFS	GROS VENTRE RIVER AT ZENITH, WYOMING
+GWSI	GH	M	Gauge Height - Feet	GREAT WESTERN SPILLBACK NR IDAHO FALLS, IDAHO
+GWSI	Q	M	Discharge - CFS	GREAT WESTERN SPILLBACK NR IDAHO FALLS, IDAHO
+NFTI	GH	M	Gauge Height - Feet	North Fork Teton River near Sugar City, ID
+NFTI	Q	M	Discharge - cfs	North Fork Teton River near Sugar City, ID
+PIHI	GH	M	Gauge Height - Feet	PORTNEUF RIVER AT POCATELLO, IDAHO
+PIHI	Q	M	Discharge - CFS	PORTNEUF RIVER AT POCATELLO, IDAHO
+TTNI	GH	M	Gauge Height - Feet	N FK TETON RIVER AT TETON, IDAHO
+TTNI	Q	M	Discharge - CFS	N FK TETON RIVER AT TETON, IDAHO
+TTXI	GH	M	Gauge Height - Feet	S FK TETON RIVER AT REXBURG, IDAHO
+TTXI	Q	M	Discharge - CFS	S FK TETON RIVER AT REXBURG, IDAHO
+WFWI	GH	M	Gauge Height - Feet	WILLOW CR FLOODWAY AT MOUTH NR IDAHO FALLS, IDAHO
+WFWI	Q	M	Discharge - CFS	WILLOW CR FLOODWAY AT MOUTH NR IDAHO FALLS, IDAHO
+ALNO	CH	P	Canal Gauge Height (feet)	Allen Canal at Echo, OR
+ALNO	QC	P	Canal Discharge - CFS	Allen Canal at Echo, OR
+ALTO	CH	P	Canal Stage - Feet	A-Line Canal (Terminus) nr Hermiston, OR
+ALTO	QC	P	Canal Discharge - CFS	A-Line Canal (Terminus) nr Hermiston, OR
+BIRO	GH	P	Gauge Height - Feet	Birch Creek near Rieth, OR
+BIRO	Q	P	Discharge - CFS	Birch Creek near Rieth, OR
+CLS	AF	P	Reservoir Storage - Acre-Feet	Cold Springs Dam near Hermiston, OR
+CLS	FB	P	Forebay Elevation - Feet	Cold Springs Dam near Hermiston, OR
+CSAO	CH	P	Canal Gauge Height (feet)	US A Line Canal at Cold Springs Res nr Hermiston OR
+CSAO	QC	P	Canal Discharge - CFS	US A Line Canal at Cold Springs Res nr Hermiston OR
+CSRO	CH	P	Canal Gauge Height (feet)	Cold Springs Recharge Canal near Hermiston, OR
+CSRO	QC	P	Canal Discharge - CFS	Cold Springs Recharge Canal near Hermiston, OR
+DLEO	CH	P	Canal Gauge Height (feet)	Dillon Canal near Stanfield, OR
+DLEO	QC	P	Canal Discharge - CFS	Dillon Canal near Stanfield, OR
+FCEO	CH	P	Canal Gauge Height (feet)	Umatilla Project Feed Canal near Echo, OR
+FCEO	QC	P	Canal Discharge - CFS	Umatilla Project Feed Canal near Echo, OR
+FCSO	CH	P	Canal Gauge Height (feet)	Umatilla Project Feed Canal near Hermiston, OR
+FCSO	QC	P	Canal Discharge - CFS	Umatilla Project Feed Canal near Hermiston, OR
+FURO	CH	P	Canal Gauge Height (feet)	Furnish Canal above Crayne-Lisle Canal nr Echo, OR
+FURO	QC	P	Canal Discharge - CFS	Furnish Canal above Crayne-Lisle Canal nr Echo, OR
+MAFO	QC	P	Canal Flow - CFS	Maxwell Diversion
+MAWO	GH	P	Gauge Height - Feet	Maxwell Canal at Maxwell Fish Screen, OR
+MAXO	CH	P	Canal Gauge Height (feet)	Maxwell Canal near Hermiston, OR
+MAXO	QC	P	Canal Discharge - CFS	Maxwell Canal near Hermiston, OR
+MCFO	GH	P	Gauge Height - Feet	McKay Ck. Adult Fish Barrier
+PDTO	GH	P	Gauge Height - Feet	Umatilla River at Pendleton, OR
+PDTO	Q	P	Discharge - CFS	Umatilla River at Pendleton, OR
+SBEO	CH	P	Canal Gauge Height (feet)	Columbia Exchange Canal near Hermiston, OR
+SBEO	QC	P	Canal Discharge - CFS	Columbia Exchange Canal near Hermiston, OR
+UMAO	GH	P	Gauge Height - Feet	Umatilla River near Umatilla, OR
+UMAO	Q	P	Discharge - CFS	Umatilla River near Umatilla, OR
+UMDO	GH	P	Gauge Height - Feet	Umatilla River at I-84 near Stanfield, OR
+UMDO	Q	P	Discharge - CFS	Umatilla River at I-84 near Stanfield, OR
+UMMO	GH	P	Gauge Height - Feet	Umatilla River blw Maxwell canal nr Hermiston
+UMMO	Q	P	Discharge - CFS	Umatilla River blw Maxwell canal nr Hermiston
+UMMO	QC	P	Maxwell Canal Flow Above Fish Screen - CFS	Umatilla River blw Maxwell canal nr Hermiston
+UMTO	GH	P	Gauge Height - Feet	Umatilla River at City of Hermiston W.W. Treatment P
+UMTO	Q	P	Discharge - CFS	Umatilla River at City of Hermiston W.W. Treatment P
+UMUO	GH	P	Gauge Height - Feet	Umatilla River nr Echo, OR
+UMUO	Q	P	Discharge - CFS	Umatilla River nr Echo, OR
+WEIO	CH	P	Canal Gauge Height (feet)	West Div Main Canal bel WEID Pumps nr Umatilla OR
+WEIO	QC	P	Canal Discharge - CFS	West Div Main Canal bel WEID Pumps nr Umatilla OR
+WEPO	CH	P	Canal Stage - Feet	WEID Exchange Pump Plant near Umatilla, OR
+WEPO	QC	P	Canal Discharge - CFS	WEID Exchange Pump Plant near Umatilla, OR
+WESO	CH	P	Canal Gauge Height (feet)	Westland Canal near Echo, OR
+WESO	QC	P	Canal Discharge - CFS	Westland Canal near Echo, OR
+WEUO	AF	P		West Division Main Canal near Umatilla, OR
+WEUO	CH	P	Canal Gauge Height (feet)	West Division Main Canal near Umatilla, OR
+WEUO	FB	P	Forebay Elevation - Feet	West Division Main Canal near Umatilla, OR
+WEUO	QC	P	Canal Discharge - CFS	West Division Main Canal near Umatilla, OR
+AMRW	GH	P	Gauge Height - Feet	American River near Nile, WA
+AMRW	Q	P	Discharge - CFS	American River near Nile, WA
+AUGW	GH	P	Gauge Height - Feet	Ahtanum Creek at Union Gap
+AUGW	Q	P	Discharge - CFS	Ahtanum Creek at Union Gap
+BICW	GH	P	Gauge Height - Feet	Moxee Drain at Birchfield Road
+BUM	AF	P	Reservoir Storage - Acre-Feet	BUMPING RESERVOIR RIVER AND WEATHER STATION
+BUM	FB	P	Forebay Elevation - Feet	BUMPING RESERVOIR RIVER AND WEATHER STATION
+BUM	GH	P	Gauge Height - Feet	BUMPING RESERVOIR RIVER AND WEATHER STATION
+BUM	OB	P	Air Temperature - Deg. F	BUMPING RESERVOIR RIVER AND WEATHER STATION
+BUM	PC	P	PRECIP, CUMULATIVE (INCHES OF WATER)	BUMPING RESERVOIR RIVER AND WEATHER STATION
+BUM	Q	P	Discharge - CFS	BUMPING RESERVOIR RIVER AND WEATHER STATION
+CFSW	OB	P	Air Temperature - Deg. F	Chandler Fish Screen Weather Station
+CGWW	GH	P	Gauge Height - Feet	COWICHE CREEK AB. MOUTH
+CHCW	CH	P	Canal Gauge Height (feet)	CHANDLER - PROSSER POWER CANAL
+CHCW	QC	P	Canal Discharge - CFS	CHANDLER - PROSSER POWER CANAL
+CHRW	GH	P	Gauge Height - Feet	CHERRY CREEK (THRALL RD.,KITTITAS VAL)
+CHRW	Q	P	Discharge - CFS	CHERRY CREEK (THRALL RD.,KITTITAS VAL)
+CLE	AF	P	Reservoir Storage - Acre-Feet	CLE ELUM RESERVOIR,RIVER AND WEATHER STATION
+CLE	FB	P	Forebay Elevation - Feet	CLE ELUM RESERVOIR,RIVER AND WEATHER STATION
+CLE	GH	P	Gauge Height - Feet	CLE ELUM RESERVOIR,RIVER AND WEATHER STATION
+CLE	OB	P	Air Temperature - Deg. F	CLE ELUM RESERVOIR,RIVER AND WEATHER STATION
+CLE	PC	P	PRECIP, CUMULATIVE (INCHES OF WATER)	CLE ELUM RESERVOIR,RIVER AND WEATHER STATION
+CLE	Q	P	Discharge - CFS	CLE ELUM RESERVOIR,RIVER AND WEATHER STATION
+CLFW	GH	P	Gauge Height - Feet	NACHES RIVER NEAR CLIFFDELL ,WA.
+CLFW	OB	P	Air Temperature - Deg. F	NACHES RIVER NEAR CLIFFDELL ,WA.
+CLFW	Q	P	Discharge - CFS	NACHES RIVER NEAR CLIFFDELL ,WA.
+CLR	FB	P	Forebay Elevation - Feet	CLEAR LAKE (ELEV)
+CLYW	GH	P	Gauge Height - Feet	CLEAR LAKE OUTFLOW (N FORK TIETON R. BLW CLEAR LAKE)
+DEPW	GH	P	Gauge Height - Feet	DEEP CREEK BELOW COPPER CREEK
+DEPW	OB	P	Air Temperature - Deg. F	DEEP CREEK BELOW COPPER CREEK
+EASW	GH	P	Gauge Height - Feet	YAKIMA RIVER AT EASTON WA.
+EASW	Q	P	Discharge - CFS	YAKIMA RIVER AT EASTON WA.
+ELNW	GH	P	Gauge Height - Feet	YAKIMA RIVER NEAR ELLENSBURG ,WA.
+ELNW	Q	P	Discharge - CFS	YAKIMA RIVER NEAR ELLENSBURG ,WA.
+ETCW	CH	P	Canal Gauge Height (feet)	Ellensburg Town Canal
+ETCW	QC	P	Canal Discharge - CFS	Ellensburg Town Canal
+KAC	AF	P	Reservoir Storage - Acre-Feet	KACHESS RESERVOIR,RIVER AND WEATHER STATION
+KAC	FB	P	Forebay Elevation - Feet	KACHESS RESERVOIR,RIVER AND WEATHER STATION
+KAC	GH	P	Gauge Height - Feet	KACHESS RESERVOIR,RIVER AND WEATHER STATION
+KAC	PC	P	PRECIP, CUMULATIVE (INCHES OF WATER)	KACHESS RESERVOIR,RIVER AND WEATHER STATION
+KAC	Q	P	Discharge - CFS	KACHESS RESERVOIR,RIVER AND WEATHER STATION
+KEE	AF	P	Reservoir Storage - Acre-Feet	KEECHELUS RESERVOIR-YAK AT MARTIN AND WEATHER STA.
+KEE	FB	P	Forebay Elevation - Feet	KEECHELUS RESERVOIR-YAK AT MARTIN AND WEATHER STA.
+KEE	GH	P	Gauge Height - Feet	KEECHELUS RESERVOIR-YAK AT MARTIN AND WEATHER STA.
+KEE	OB	P	Air Temperature - Deg. F	KEECHELUS RESERVOIR-YAK AT MARTIN AND WEATHER STA.
+KEE	PC	P	PRECIP, CUMULATIVE (INCHES OF WATER)	KEECHELUS RESERVOIR-YAK AT MARTIN AND WEATHER STA.
+KEE	Q	P	Discharge - CFS	KEECHELUS RESERVOIR-YAK AT MARTIN AND WEATHER STA.
+KIOW	GH	P	Gauge Height - Feet	YAKIMA RIVER AT KIONA, WA
+KIOW	Q	P	Discharge - CFS	YAKIMA RIVER AT KIONA, WA
+KNCW	CH	P	Canal Gauge Height (feet)	KENNEWICK CANAL
+KNCW	QC	P	Canal Discharge - CFS	KENNEWICK CANAL
+KTCW	CH	P	Canal Gauge Height (feet)	KITTITAS CANAL
+KTCW	OB	P	Air Temperature - Deg. F	KITTITAS CANAL
+KTCW	QC	P	Canal Discharge - CFS	KITTITAS CANAL
+LNRW	GH	P	Gauge Height - Feet	LITTLE NACHES RIVER NEAR NILE, WA
+LNRW	Q	P	Discharge - CFS	LITTLE NACHES RIVER NEAR NILE, WA
+NACW	GH	P	GAGE HEIGHT, INSTANTANEOUS (FEET)	NACHES RIVER NEAR NACHES,WA.
+NACW	Q	P	DISCHARGE, INSTANTANEOUS (KCFS)	NACHES RIVER NEAR NACHES,WA.
+NRYW	GH	P	Gauge Height - Feet	NACHES RIVER NEAR YAKIMA, WA
+NRYW	Q	P	Discharge - CFS	NACHES RIVER NEAR YAKIMA, WA
+NSCW	CH	P	Canal Gauge Height (feet)	NACHES SELAH CANAL
+NSCW	QC	P	Canal Discharge - CFS	NACHES SELAH CANAL
+PAR	FB	P	Forebay Elevation - Feet	YAK RIVER NR. PARKER SUNNYSIDE POOL
+PARW	GH	P	Gauge Height - Feet	YAKIMA RIVER NEAR PARKER, WA.
+PARW	Q	P	Discharge - CFS	YAKIMA RIVER NEAR PARKER, WA.
+PRO	FB	P	Forebay Elevation - Feet	PROSSER RESERVOIR
+PRO	OB	P	Air Temperature - Deg. F	PROSSER RESERVOIR
+RBDW	GH	P	Gauge Height - Feet	YAKIMA RIVER BELOW ROZA DAM
+RBDW	Q	P	Discharge - CFS	YAKIMA RIVER BELOW ROZA DAM
+RDR	AF	P	Reservoir Storage - Acre-Feet	ROZA RESERVOIR
+RDR	FB	P	Forebay Elevation - Feet	ROZA RESERVOIR
+RDR	OB	P	Air Temperature - Deg. F	ROZA RESERVOIR
+RIM	AF	P	Reservoir Storage - Acre-Feet	RIMROCK RESERVOIR,TIETON RIVER AND WEATHER STATION
+RIM	FB	P	Forebay Elevation - Feet	RIMROCK RESERVOIR,TIETON RIVER AND WEATHER STATION
+RIM	GH	P	Gauge Height - Feet	RIMROCK RESERVOIR,TIETON RIVER AND WEATHER STATION
+RIM	OB	P	Air Temperature - Deg. F	RIMROCK RESERVOIR,TIETON RIVER AND WEATHER STATION
+RIM	PC	P	PRECIP, CUMULATIVE (INCHES OF WATER)	RIMROCK RESERVOIR,TIETON RIVER AND WEATHER STATION
+RIM	Q	P	Discharge - CFS	RIMROCK RESERVOIR,TIETON RIVER AND WEATHER STATION
+ROZW	CH	P	CANAL STAGE, INST. (FEET)	ROZA CANAL AT 11.0 MILE
+ROZW	QC	P	DISCHARGE, CANAL DIVERSION (KCFS)	ROZA CANAL AT 11.0 MILE
+RSCW	CH	P	Canal Gauge Height (feet)	NEW RESERVATION CANAL
+RSCW	QC	P	Canal Discharge - CFS	NEW RESERVATION CANAL
+RZCW	CH	P	Canal Gauge Height (feet)	ROZA CANAL AT HEADWORKS
+RZCW	QC	P	Canal Discharge - CFS	ROZA CANAL AT HEADWORKS
+SNCW	CH	P	Canal Gauge Height (feet)	SUNNYSIDE CANAL
+SNCW	QC	P	Canal Discharge - CFS	SUNNYSIDE CANAL
+SOUW	CH	P	Canal Gauge Height (feet)	SOUTH NACHES CHANNEL COMPANY CANAL
+SOUW	QC	P	Canal Discharge - CFS	SOUTH NACHES CHANNEL COMPANY CANAL
+SUCW	GH	P	Gauge Height - Feet	SULPHUR CREEK AT HOLIDAY ROAD NEAR SUNNYSIDE
+SUCW	Q	P	Discharge - CFS	SULPHUR CREEK AT HOLIDAY ROAD NEAR SUNNYSIDE
+SWLW	GH	P	Gauge Height - Feet	SWAMP LAKE CR. NR CRYSTAL SPRINGS CAMPGROUND
+TCBW	GH	P	Gauge Height - Feet	TANEUM Creek nr Brain Ranch
+TEAW	GH	P	Gauge Height - Feet	TEANAWAY RIVER BELOW LAMBERT ROAD
+TEAW	Q	P	Discharge - CFS	TEANAWAY RIVER BELOW LAMBERT ROAD
+TICW	GH	P	Gauge Height - Feet	TIETON RIVER NEAR TIETON CANAL HEADWORKS
+TICW	OB	P	Air Temperature - Deg. F	TIETON RIVER NEAR TIETON CANAL HEADWORKS
+TICW	PC	P	PRECIP, CUMULATIVE (INCHES OF WATER)	TIETON RIVER NEAR TIETON CANAL HEADWORKS
+TICW	Q	P	Discharge - CFS	TIETON RIVER NEAR TIETON CANAL HEADWORKS
+TIEW	CH	P	Canal Gauge Height (feet)	TIETON CANAL
+TIEW	QC	P	Canal Discharge - CFS	TIETON CANAL
+TNAW	GH	P	Gauge Height - Feet	TEANAWAY RIVER AT FORKS NEAR CLE ELUM, WA
+TNAW	OB	P	Air Temperature - Deg. F	TEANAWAY RIVER AT FORKS NEAR CLE ELUM, WA
+TNAW	PC	P	PRECIP, CUMULATIVE (INCHES OF WATER)	TEANAWAY RIVER AT FORKS NEAR CLE ELUM, WA
+TNAW	Q	P	Discharge - CFS	TEANAWAY RIVER AT FORKS NEAR CLE ELUM, WA
+UMTW	GH	P	Gauge Height - Feet	YAKIMA RIVER NEAR UMTANUM ,WA.
+UMTW	Q	P	Discharge - CFS	YAKIMA RIVER NEAR UMTANUM ,WA.
+WESW	CH	P	Canal Gauge Height (feet)	WESTSIDE CANAL
+WESW	QC	P	Canal Discharge - CFS	WESTSIDE CANAL
+WONW	GH	P	Gauge Height - Feet	WILSON CREEK (THRALL RD.,KITTITAS VAL)
+WONW	Q	P	Discharge - CFS	WILSON CREEK (THRALL RD.,KITTITAS VAL)
+WOPW	CH	P	CANAL STAGE, INST. (FEET)	WAPATOX POWER CANAL
+WOPW	QC	P	DISCHARGE, CANAL DIVERSION (KCFS)	WAPATOX POWER CANAL
+YGVW	GH	P	Gauge Height - Feet	YAKIMA RIVER AT EUCLID RD. BR. NEAR GRANDVIEW,WA.
+YGVW	Q	P	Discharge - CFS	YAKIMA RIVER AT EUCLID RD. BR. NEAR GRANDVIEW,WA.
+YRCW	GH	P	Gauge Height - Feet	YAKIMA RIVER AT CRYSTAL SPRINGS
+YRCW	Q	P	Discharge - CFS	YAKIMA RIVER AT CRYSTAL SPRINGS
+YRPW	GH	P	Gauge Height - Feet	YAKIMA RIVER NEAR PROSSER ,WA.
+YRPW	OB	P	Air Temperature - Deg. F	YAKIMA RIVER NEAR PROSSER ,WA.
+YRPW	Q	P	Discharge - CFS	YAKIMA RIVER NEAR PROSSER ,WA.
+YRTW	GH	P	Gauge Height - Feet	YAKIMA RIVER AT TERRACE HEIGHTS BRIDGE
+YRTW	Q	P	Discharge - CFS	YAKIMA RIVER AT TERRACE HEIGHTS BRIDGE
+YRWW	GH	P	Gauge Height - Feet	YAKIMA RIVER NEAR HORLICK ,WA.
+YRWW	Q	P	Discharge - CFS	YAKIMA RIVER NEAR HORLICK ,WA.
+YUMW	GH	P	GAGE HEIGHT, INSTANTANEOUS (FEET)	YAKIMA RIVER AT CLE ELUM , WA.
+YUMW	Q	P	Discharge - CFS	YAKIMA RIVER AT CLE ELUM , WA.
