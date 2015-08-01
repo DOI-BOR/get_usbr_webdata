@@ -96,7 +96,10 @@ def makeSHEF (locID,timeObj,tz,PEcode,value):
   return output
 
 def makeDailySHEF (locID,timeObj,tz,PEcode,value):
-  output = ".A "+locID+" "+timeObj.strftime("%Y%m%d")+" "+tz+" DH24/"+PEcode+" "+value
+  if value != "998877":
+    output = ".A "+locID+" "+timeObj.strftime("%Y%m%d")+" "+tz+" DH24/"+PEcode+" "+value
+  else
+    output = ".A "+locID+" "+timeObj.strftime("%Y%m%d")+" "+tz+" DH24/"+PEcode+" M"
   #print output   # debug
   return output
   
